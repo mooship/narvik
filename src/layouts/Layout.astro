@@ -6,7 +6,10 @@ interface Props {
   description?: string;
 }
 
-const { title = "The Last Man in Narvik", description = "An online book." } = Astro.props;
+const {
+  title = "The Last Man in Narvik",
+  description = "A narrative exploring resistance, survival, and the human cost of war in occupied Norway during World War II.",
+} = Astro.props;
 ---
 
 <!doctype html>
@@ -14,7 +17,10 @@ const { title = "The Last Man in Narvik", description = "An online book." } = As
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
     <title>{title}</title>
