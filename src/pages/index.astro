@@ -1,11 +1,242 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+const BOOK_TITLE = "The Last Man in Narvik";
+const BOOK_AUTHOR = "Timothy Brits";
+const BOOK_TAGLINE = "A Novel";
+
+const allChapters = await getCollection("chapters");
+const chapters = allChapters.sort((a, b) => a.data.order - b.data.order);
 ---
 
-<Layout>
-	<Welcome />
+<Layout title={BOOK_TITLE} description={`${BOOK_TAGLINE} by ${BOOK_AUTHOR}.`}>
+  <div class="toc-wrapper">
+    <header class="book-header">
+      <p class="book-author">{BOOK_AUTHOR}</p>
+      <h1 class="book-title">{BOOK_TITLE}</h1>
+      <p class="book-tagline">{BOOK_TAGLINE}</p>
+      <a href="/The_Last_Man_in_Narvik.pdf" download class="download-btn">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="16"
+          height="16"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+          <polyline points="7 10 12 15 17 10"></polyline>
+          <line x1="12" y1="15" x2="12" y2="3"></line>
+        </svg>
+        Download PDF
+      </a>
+      <div class="book-rule" aria-hidden="true"></div>
+    </header>
+
+    <main>
+      <nav aria-label="Table of contents">
+        <ol class="chapter-list">
+          {
+            chapters.map((chapter) => (
+              <li class="chapter-item">
+                <a href={`/chapters/${chapter.id.replace(/\.md$/, "")}`} class="chapter-link">
+                  <span class="chapter-link__number">
+                    {String(chapter.data.order).padStart(2, "0")}
+                  </span>
+                  <span class="chapter-link__title">{chapter.data.title}</span>
+                  {chapter.data.description && (
+                    <span class="chapter-link__desc">{chapter.data.description}</span>
+                  )}
+                </a>
+              </li>
+            ))
+          }
+        </ol>
+      </nav>
+    </main>
+
+    <footer class="site-footer">
+      <p>© {new Date().getFullYear()} {BOOK_AUTHOR}</p>
+      <p class="site-license">
+        Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"
+          >CC BY-NC-SA 4.0</a
+        >.
+      </p>
+    </footer>
+  </div>
 </Layout>
+
+<style>
+  /* ── Page wrapper ────────────────────────────────────── */
+  .toc-wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: var(--space-2xl) var(--page-padding) var(--space-xl);
+  }
+
+  /* ── Book header ─────────────────────────────────────── */
+  .book-header {
+    text-align: center;
+    max-width: var(--measure-wide);
+    width: 100%;
+    margin-bottom: var(--space-3xl);
+  }
+
+  .book-author {
+    font-family: var(--font-sans);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: var(--space-md);
+  }
+
+  .book-title {
+    font-family: var(--font-display);
+    font-size: var(--text-4xl);
+    font-weight: 900;
+    line-height: 1.05;
+    color: var(--text);
+    letter-spacing: -0.01em;
+    margin-bottom: var(--space-sm);
+  }
+
+  .book-tagline {
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-size: var(--text-lg);
+    color: var(--text-muted);
+    margin-bottom: var(--space-lg);
+  }
+
+  .download-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-xs);
+    font-family: var(--font-sans);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    color: var(--text);
+    background: var(--bg-hover);
+    border: 1px solid var(--border);
+    padding: var(--space-sm) var(--space-lg);
+    border-radius: 6px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    margin-bottom: var(--space-xl);
+  }
+
+  .download-btn:hover {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+    transform: translateY(-1px);
+  }
+
+  .download-btn svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  .book-rule {
+    width: 3rem;
+    height: 2px;
+    background: var(--accent);
+    margin: 0 auto;
+  }
+
+  /* ── Chapter list ────────────────────────────────────── */
+  .chapter-list {
+    list-style: none;
+    max-width: var(--measure);
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .chapter-item {
+    border-bottom: 1px solid var(--border);
+  }
+
+  .chapter-item:first-child {
+    border-top: 1px solid var(--border);
+  }
+
+  .chapter-link {
+    display: grid;
+    grid-template-columns: 3rem 1fr;
+    grid-template-rows: auto auto;
+    column-gap: var(--space-md);
+    align-items: baseline;
+    padding: var(--space-lg) var(--space-sm);
+    text-decoration: none;
+    color: var(--text);
+    transition: background 0.15s ease;
+    border-radius: 4px;
+  }
+
+  .chapter-link:hover {
+    background: var(--bg-hover);
+    color: var(--text);
+  }
+
+  .chapter-link:hover .chapter-link__number {
+    color: var(--accent-dark);
+  }
+
+  .chapter-link__number {
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    font-weight: 500;
+    color: var(--accent);
+    letter-spacing: 0.1em;
+    padding-top: 0.2em;
+    grid-row: 1;
+  }
+
+  .chapter-link__title {
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+    font-weight: 700;
+    line-height: 1.2;
+    grid-row: 1;
+  }
+
+  .chapter-link__desc {
+    grid-column: 2;
+    grid-row: 2;
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+    margin-top: var(--space-xs);
+    line-height: 1.5;
+  }
+
+  /* ── Footer ──────────────────────────────────────────── */
+  .site-footer {
+    margin-top: auto;
+    padding-top: var(--space-2xl);
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    color: var(--text-muted);
+    letter-spacing: 0.06em;
+  }
+
+  .site-license {
+    margin-top: var(--space-xs);
+  }
+
+  /* ── Mobile ──────────────────────────────────────────── */
+  @media (max-width: 480px) {
+    .chapter-link {
+      grid-template-columns: 2.5rem 1fr;
+    }
+  }
+</style>

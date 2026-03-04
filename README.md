@@ -1,46 +1,74 @@
-# Astro Starter Kit: Basics
+# The Last Man in Narvik
 
-```sh
-npm create astro@latest -- --template basics
-```
+A narrative web experience telling the story of resistance in occupied Norway during World War II. Follow Erik Solberg, a fisherman's son turned soldier, through ten chapters of survival, resistance, and the personal cost of war.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 📖 About
+
+This project presents a chapter-based narrative set during the Battles of Narvik and the subsequent occupation of Norway. The story explores themes of resistance, occupation, and survival through the eyes of a Norwegian soldier who becomes part of the local resistance movement.
+
+## 🛠️ Built With
+
+- [Astro](https://astro.build) - Static site generator
+- Content Collections - Type-safe chapter management
+- Custom fonts: Playfair Display, Lora, DM Sans
+- SEO optimization with schema markup
+- Asset optimization (PurgeCSS, inline, compression)
 
 ## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
-
 ```text
 /
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
+├── public/              # Static assets
+├── src/
+│   ├── assets/         # Images and media
+│   ├── components/     # Reusable Astro components
+│   ├── content/
+│   │   ├── config.ts   # Content collection schema
+│   │   └── chapters/   # 10 markdown chapters (01-10)
+│   ├── layouts/
+│   │   ├── Layout.astro        # Base layout
+│   │   └── ChapterLayout.astro # Chapter-specific layout
+│   ├── pages/
+│   │   ├── index.astro         # Home page
+│   │   └── chapters/
+│   │       └── [slug].astro    # Dynamic chapter routes
+│   ├── styles/
+│   │   └── global.css  # Global styles
+│   └── config.ts       # Site configuration
 └── package.json
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
-
 ## 🧞 Commands
 
-All commands are run from the root of the project, from a terminal:
+All commands are run from the root of the project:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+| Command           | Action                                     |
+| :---------------- | :----------------------------------------- |
+| `npm install`     | Install dependencies                       |
+| `npm run dev`     | Start local dev server at `localhost:4321` |
+| `npm run build`   | Build production site to `./dist/`         |
+| `npm run preview` | Preview build locally before deploying     |
+| `npm run format`  | Format code with Prettier                  |
 
-## 👀 Want to learn more?
+## 📚 Chapter Structure
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Each chapter is a markdown file with frontmatter containing:
+
+- `title` - Chapter title
+- `order` - Chapter number (1-10)
+- `description` - Brief chapter summary
+- `epigraph` - Opening quote (optional)
+- `epigraphAuthor` - Quote attribution (optional)
+
+## 🌐 Site Configuration
+
+Edit `src/config.ts` to update site metadata:
+
+- Site URL
+- Base URL
+- Site title
+- Site description
+
+## 📄 License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).

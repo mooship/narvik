@@ -1,14 +1,29 @@
 {
   "name": "narvik",
-  "type": "module",
   "version": "0.0.1",
+  "license": "CC-BY-NC-SA-4.0",
+  "type": "module",
   "scripts": {
-    "dev": "astro dev",
+    "astro": "astro",
     "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "dev": "astro dev",
+    "format": "prettier --write --experimental-cli src/ package.json",
+    "preview": "astro preview"
   },
-  "dependencies": {
-    "astro": "^5.17.1"
+  "devDependencies": {
+    "@astrojs/sitemap": "^3.7.0",
+    "@fontsource-variable/dm-sans": "^5.2.8",
+    "@fontsource-variable/lora": "^5.2.8",
+    "@fontsource-variable/playfair-display": "^5.2.8",
+    "@playform/inline": "^0.1.2",
+    "astro": "^5.18.0",
+    "astro-compressor": "^1.2.0",
+    "astro-purgecss": "^5.5.0",
+    "astro-seo-schema": "^5.2.0",
+    "fontaine": "^0.8.0",
+    "prettier": "^3.8.1",
+    "prettier-plugin-astro": "^0.14.1",
+    "prettier-plugin-organize-imports": "^4.3.0",
+    "prettier-plugin-packagejson": "^3.0.0"
   }
 }
