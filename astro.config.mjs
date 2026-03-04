@@ -16,7 +16,7 @@ const fontaineOptions = {
 };
 
 export default defineConfig({
-  site: 'https://narvik.example.com',
+  site: 'https://narvik.timothybrits.co.za',
   trailingSlash: 'never',
   output: 'static',
   prefetch: {
