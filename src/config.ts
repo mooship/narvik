@@ -5,5 +5,5 @@ export const config = {
   description:
     "A narrative exploring resistance, survival, and the human cost of war in occupied Norway during World War II.",
   author: "Timothy Brits",
-  tagline: "A Novel",
+  tagline: "A Novella",
 };
