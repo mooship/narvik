@@ -1,16 +1,6 @@
 // @ts-check
 import sitemap from '@astrojs/sitemap';
-import { defineConfig } from 'astro/config';
-import { FontaineTransform } from 'fontaine';
-
-const fontaineOptions = {
-  fallbacks: {},
-  categoryFallbacks: {
-    serif: ['Georgia', 'Times New Roman'],
-    'sans-serif': ['Arial', 'Helvetica Neue'],
-    monospace: ['Courier New', 'Roboto Mono'],
-  },
-};
+import { defineConfig, fontProviders } from 'astro/config';
 
 export default defineConfig({
   site: 'https://narvik.timothybrits.co.za',
@@ -20,7 +10,24 @@ export default defineConfig({
     defaultStrategy: 'hover',
   },
   integrations: [sitemap()],
-  vite: {
-    plugins: [FontaineTransform.vite(fontaineOptions)],
+  fonts: [
+    {
+      provider: fontProviders.fontsource(),
+      name: 'Lora',
+      cssVariable: '--font-serif',
+    },
+    {
+      provider: fontProviders.fontsource(),
+      name: 'DM Sans',
+      cssVariable: '--font-sans',
+    },
+    {
+      provider: fontProviders.fontsource(),
+      name: 'Playfair Display',
+      cssVariable: '--font-display',
+    },
+  ],
+  experimental: {
+    rustCompiler: true,
   },
 });
