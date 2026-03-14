@@ -12,7 +12,6 @@ This project presents a chapter-based narrative set during the Battles of Narvik
 - Content Collections - Type-safe chapter management
 - Custom fonts: Playfair Display, Lora, DM Sans
 - SEO optimization with schema markup
-- Asset optimization (PurgeCSS, inline, compression)
 
 ## 🚀 Project Structure
 
