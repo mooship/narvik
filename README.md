@@ -2,18 +2,18 @@
 
 A narrative web experience telling the story of resistance in occupied Norway during World War II. Follow Erik Solberg, a fisherman's son turned soldier, through ten chapters of survival, resistance, and the personal cost of war.
 
-## 📖 About
+## About
 
 This project presents a chapter-based narrative set during the Battles of Narvik and the subsequent occupation of Norway. The story explores themes of resistance, occupation, and survival through the eyes of a Norwegian soldier who becomes part of the local resistance movement.
 
-## 🛠️ Built With
+## Built With
 
 - [Astro](https://astro.build) - Static site generator
 - Content Collections - Type-safe chapter management
 - Custom fonts: Playfair Display, Lora, DM Sans
 - SEO optimization with schema markup
 
-## 🚀 Project Structure
+## Project Structure
 
 ```text
 /
@@ -37,7 +37,7 @@ This project presents a chapter-based narrative set during the Battles of Narvik
 └── package.json
 ```
 
-## 🧞 Commands
+## Commands
 
 All commands are run from the root of the project:
 
@@ -49,7 +49,7 @@ All commands are run from the root of the project:
 | `npm run preview` | Preview build locally before deploying     |
 | `npm run format`  | Format code with Prettier                  |
 
-## 📚 Chapter Structure
+## Chapter Structure
 
 Each chapter is a markdown file with frontmatter containing:
 
@@ -59,7 +59,7 @@ Each chapter is a markdown file with frontmatter containing:
 - `epigraph` - Opening quote (optional)
 - `epigraphAuthor` - Quote attribution (optional)
 
-## 🌐 Site Configuration
+## Site Configuration
 
 Edit `src/config.ts` to update site metadata:
 
@@ -68,6 +68,6 @@ Edit `src/config.ts` to update site metadata:
 - Site title
 - Site description
 
-## 📄 License
+## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](LICENSE)
