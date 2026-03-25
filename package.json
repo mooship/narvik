@@ -14,7 +14,9 @@
   "devDependencies": {
     "@astrojs/compiler-rs": "^0.1.6",
     "@astrojs/sitemap": "^3.7.1",
+    "@eslint/css": "^1.0.0",
     "@eslint/js": "^10.0.1",
+    "@eslint/markdown": "^7.5.1",
     "astro": "^6.0.8",
     "eslint": "^10.1.0",
     "eslint-config-prettier": "^10.1.8",
