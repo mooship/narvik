@@ -47,6 +47,7 @@ All commands are run from the root of the project:
 | `npm run build`        | Build production site to `./dist/`         |
 | `npm run preview`      | Preview build locally before deploying     |
 | `npm run format`       | Format code with Prettier                  |
+| `npm run lint`         | Lint and auto-fix with ESLint              |
 | `npx lefthook install` | Install git hooks (run after cloning)      |
 
 ## Chapter Structure

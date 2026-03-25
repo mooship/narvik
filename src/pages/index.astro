@@ -4,7 +4,7 @@ import { config } from "../config";
 import Layout from "../layouts/Layout.astro";
 
 const allChapters = await getCollection("chapters");
-const chapters = allChapters.sort((a, b) => a.data.order - b.data.order);
+const chapters = allChapters.toSorted((a, b) => a.data.order - b.data.order);
 ---
 
 <Layout title={config.title} description={config.description}>
@@ -90,8 +90,8 @@ const chapters = allChapters.sort((a, b) => a.data.order - b.data.order);
   if (raw) {
     try {
       const { slug, title } = JSON.parse(raw);
-      const btn = document.getElementById("continue-btn");
-      const titleEl = document.getElementById("continue-title");
+      const btn = document.querySelector("#continue-btn");
+      const titleEl = document.querySelector("#continue-title");
       if (btn && titleEl) {
         btn.setAttribute("href", `/chapters/${slug}`);
         titleEl.textContent = title;

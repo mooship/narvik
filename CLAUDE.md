@@ -9,11 +9,12 @@ npm run dev       # dev server at localhost:4321
 npm run build     # production build to ./dist/
 npm run preview   # preview the production build
 npm run format    # Prettier (astro, organize-imports, packagejson plugins)
+npm run lint      # ESLint with auto-fix (JS/TS/astro, unicorn ruleset)
 ```
 
 There are no tests. CI runs `npm run build` on Node 22.x and 24.x.
 
-Lefthook runs Prettier automatically on staged files at `pre-commit`. Run `npm run format` to format manually.
+Lefthook runs Prettier then ESLint (`--fix`) automatically on staged files at `pre-commit`. Run `npm run format` or `npm run lint` manually.
 
 ## Architecture
 

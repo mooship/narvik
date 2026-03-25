@@ -5,7 +5,7 @@ import ChapterLayout from "../../layouts/ChapterLayout.astro";
 export async function getStaticPaths() {
   const toSlug = (id: string) => id.replace(/\.md$/, "");
   const allChapters = await getCollection("chapters");
-  const sorted = allChapters.sort((a, b) => a.data.order - b.data.order);
+  const sorted = allChapters.toSorted((a, b) => a.data.order - b.data.order);
 
   return sorted.map((chapter, index) => ({
     params: { slug: toSlug(chapter.id) },

@@ -4,3 +4,7 @@ pre-commit:
       glob: "*.{astro,ts,css,json,md}"
       run: npx prettier --write --experimental-cli {staged_files}
       stage_fixed: true
+    lint:
+      glob: "*.{astro,ts}"
+      run: npx eslint --fix {staged_files}
+      stage_fixed: true
