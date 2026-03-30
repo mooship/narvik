@@ -6,9 +6,11 @@ epigraph: "The war had made me. I would spend the rest of my life finding out wh
 epigraphAuthor: "Erik Solberg"
 ---
 
+Four years passed. They were not empty -- operations continued, people were lost, small victories were won that would never be recorded anywhere. But the years of resistance between the spring of 1941 and the spring of 1945 were years of repetition more than event, and the things worth telling from them I have already told.
+
 The news came on a Tuesday.
 
-It came the way most important things came during the occupation -- not in a single dramatic moment but as a slow accumulation of signals. The German patrols thinning over the preceding week. The checkpoints unmanned on roads that had been controlled for five years. A particular quality of silence from the garrison in Bodø that Eriksen, who had developed a near-instinctive understanding of German administrative behaviour over four years, described simply as the silence of men who had received orders they did not yet know how to process.
+It came the way most important things came during the occupation -- not in a single dramatic moment but as a slow accumulation of signals. The German patrols thinning over the preceding week. The checkpoints unmanned on roads that had been controlled for five years. A silence from the garrison in Bodø that Eriksen, who had developed a near-instinctive understanding of German administrative behaviour over four years, described simply as the silence of men who had received orders they did not yet know how to process.
 
 Then the radio.
 
@@ -16,7 +18,7 @@ The BBC broadcast that we had been monitoring illegally since 1940, through stat
 
 Germany had surrendered. The war in Europe was over. It was the eighth of May, 1945.
 
-Dahl heard it before any of us. He came to find me in the woodshed where I was doing the same work I had been doing when Shepherd's first message arrived four years earlier -- splitting firewood, the axe and the block, the ordinary maintenance of a life conducted in the mountains. He stood in the doorway for a moment without speaking. Just looked at me with an expression I had never seen on his face before and could not immediately classify. Not relief, exactly. Not triumph. Something more complicated than either, the expression of a man arriving at a destination he has been moving toward for so long that the arrival itself has become strange.
+Dahl heard it before any of us. He came to find me in the woodshed where I was doing the same work I had been doing when Shepherd's first message arrived four years earlier -- splitting firewood, the axe and the block, the ordinary maintenance of a life conducted in the mountains. He stood in the doorway for a moment without speaking. Just looked at me with an expression I had never seen on his face before and could not immediately classify. Not relief. Not triumph. The look of a man who has been moving toward something for so long that arriving has become strange.
 
 "It's done," he said.
 
@@ -30,7 +32,7 @@ Nobody cheered.
 
 I had expected cheering, or something like it -- the discharge of five years of tension in a single overwhelming moment. What I had not expected was this: eight people standing in a mountain clearing in the early morning of the eighth of May, 1945, not quite knowing what to do with themselves. The sun on the birch leaves. The silence that was different from all the other silences we had occupied, because this one was not the silence of waiting or the silence of concealment but simply silence -- the absence of a thing that had been present for so long its absence was itself a kind of sound.
 
-I looked at the people around me. Eriksen, standing very still with his hands at his sides, his face doing something it almost never did -- nothing, absolutely nothing, a complete suspension of the careful neutrality he wore as a working expression, as though the news had temporarily dissolved the habit. Nielsen, who had joined us in the summer of 1940 with his naval officer's precision and had spent five years applying it to problems naval officers were not trained for, was looking at the mountains with the expression of a man reviewing an account and finding it to balance. Bergmann, who had never told anyone why he had stayed in the eastern forest rather than surrendering and had showed no sign of starting, stood with his hands clasped in front of him and his head slightly bowed, which was either prayer or something that looked enough like it from the outside that the distinction didn't matter.
+I looked at the people around me. Eriksen, standing very still, his face doing something it almost never did -- nothing at all, as though the news had dissolved the careful neutrality he usually wore. Nielsen was looking at the mountains with the expression of a man reviewing an account and finding it to balance. Bergmann stood with his hands clasped and his head slightly bowed.
 
 Ingrid was looking at me. When I met her eyes she offered a small nod -- the resistance fighter's acknowledgment, the one that said: we did it, the thing we said we were doing is done. There was more than that in it. There was also everything we had not yet had the conditions to say directly, which was a conversation for later when the conditions existed.
 
@@ -80,13 +82,13 @@ There were too many people I did not know well enough, and would not have the ch
 
 I sat at the table for a while, in the morning of the day the war ended, and let this be what it was.
 
-The two days between the eighth of May and the tenth passed in a particular strangeness.
+The two days between the eighth of May and the tenth passed in a strangeness of their own.
 
 The war was over but the mountains were the same mountains. The farmhouse was the same farmhouse. The routines that had governed five years of resistance life -- the watch rotations, the radio schedules, the operational security that had become as automatic as breathing -- did not dissolve immediately. They dissolved slowly, each person abandoning them at their own pace, sometimes catching themselves performing a habit that no longer had a function and having to consciously set it down.
 
 Eriksen dismantled the radio set on the afternoon of the eighth, working with the same methodical care he brought to everything. He did not dismantle it because it needed to be dismantled immediately. He dismantled it because it was a task with a clear procedure and a definite end point, and this was what he needed that afternoon.
 
-Dahl spent most of the eighth sitting at the table with the maps spread in front of him, not looking at them so much as allowing the familiar objects to occupy the space around him while he thought whatever he was thinking. Once I came in from outside and found him simply sitting, hands flat on the table, not asleep and not reading, in the particular stillness of a man who has arrived at something and is not yet ready to move away from it.
+Dahl spent most of the eighth sitting at the table with the maps spread in front of him, not looking at them so much as allowing the familiar objects to occupy the space around him while he thought whatever he was thinking. Once I came in from outside and found him simply sitting, hands flat on the table, not asleep and not reading, still, as though he had arrived at something and was not yet ready to move away from it.
 
 I did not disturb him.
 
@@ -144,7 +146,7 @@ There are reunions that need a moment's preparation. Not to rehearse what you wi
 
 I walked the harbour instead.
 
-The wharves had been used heavily for German supply operations throughout the occupation, and there was evidence of this in the condition of the dock infrastructure -- the wear patterns, the modifications to the loading equipment, the particular arrangement of structures that had served a different purpose for five years. But the fishing boats were out on the water. This fact was more steadying than anything I could have told myself.
+The wharves had been used heavily for German supply operations throughout the occupation, and there was evidence of this in the condition of the dock infrastructure -- the wear patterns, the modifications to the loading equipment, structures that had served a different purpose for five years. But the fishing boats were out on the water. This fact was more steadying than anything I could have told myself.
 
 At the far end of the main wharf, a group of people were gathered around someone's portable radio. As I drew closer I heard what they were listening to: an announcement that King Haakon would return from London. The date was not yet fixed, but it was coming. The King was coming home.
 
@@ -184,7 +186,7 @@ Outside the window, Narvik was doing what it was doing: coming back to itself in
 
 The coffee was real and the cups were the same cups and the table was the same table and the window gave onto the same view it had always given onto, and all of this was true simultaneously with the fact that the people sitting around it had been through five years that had not left any of these things the same.
 
-My mother's hair had gone fully grey. She had been going grey before the invasion -- I had noticed it the year I left for my military service, the particular way it had changed her colouring -- but it had completed itself now, and it looked right on her, settled, the way things look when they have become what they are rather than what they are becoming. She held her cup in both hands the way she always had and asked her questions with the directness she always had, and she was entirely herself, and the five years showed in none of the ways I had feared and in certain ways I had not anticipated.
+My mother's hair had gone fully grey. She had been going grey before the invasion -- I had noticed it the year I left for my military service, the way it had changed her colouring -- but it had completed itself now, and it looked right on her, settled, the way things look when they have become what they are rather than what they are becoming. She held her cup in both hands the way she always had and asked her questions with the directness she always had, and she was entirely herself, and the five years showed in none of the ways I had feared and in certain ways I had not anticipated.
 
 She wanted to know about the resistance specifically. Not the operations -- she did not ask about the operations -- but the structure of it, the people, how it had been organised. She had a professional interest in how things worked, my mother, applied to everything she encountered, and she applied it now. Who had led the cell after Haugen. How the intelligence networks had communicated with London. What the British drops had contained and how they had been used.
 
@@ -278,15 +280,13 @@ I thought of what Dahl had said once, in the darkness outside a resistance cabin
 
 Standing at the edge of the harbour now, I found that the distinction had stopped mattering. The outcome was the same either way.
 
-A voice called from somewhere along the wharf. Two fishermen arguing about the allocation of dock space, the particular grooves of a dispute that had clearly been ongoing for some time and would continue regardless of any external resolution. The ordinary business of a harbour reasserting itself.
+A voice called from somewhere along the wharf. Two fishermen arguing about the allocation of dock space, the grooves of a dispute that had clearly been ongoing for some time and would continue regardless of any external resolution. The ordinary business of a harbour reasserting itself.
 
 I turned away from the water and walked back up through the town.
 
-The street that ran from the harbour to the centre was the same street it had always been, and I had walked it several hundred times, and none of the previous times had felt like this one. The buildings to either side were familiar in the specific way of things you have not seen for a long time and assumed you remembered accurately and then found, when you stood in front of them, that you had remembered correctly after all. The post office. The ironmonger where my father had bought boat hardware for as long as I could remember, its window currently in the process of removing a German notice that had been fixed to the glass. The bakery that had operated under occupation with flour allocations and substitutions and whatever creativity was available, and was now apparently operating with somewhat better flour, or at least flour that smelled better.
+The street that ran from the harbour to the centre was the same street it had always been, and I had walked it several hundred times, and none of the previous times had felt like this one. The buildings were familiar in the way of things you assumed you remembered accurately and found, standing in front of them, that you had. The ironmonger was removing a German notice from its window. The bakery smelled of better flour.
 
 I walked slowly.
-
-Past the café where I had sat in the early days after the liberation and listened to the broadcast of the King's return, surrounded by people I didn't know and the particular collective quiet of a room full of Norwegians receiving news they had been waiting five years to receive.
 
 Past the church where Kristian's family had held a service in 1941, for the absence of him, after the word came through. I had not been there. I had been in the mountains, doing the next thing, and I had found out about the service months later through resistance channels. I stopped in front of the church for a moment. It had nothing to offer me now that I couldn't find in memory, but standing outside it felt like an acknowledgment of something I owed.
 
@@ -298,9 +298,9 @@ In my jacket pocket was a letter from Ingrid. She was in Oslo, enrolled at the u
 
 I had thought about Oslo.
 
-I had thought about a school in Frogner where they needed someone to teach languages. I had thought about the particular version of myself that had wanted to stand in front of a classroom and do something with words that built things rather than protected against them. I had thought about the fact that this person had survived the war, more or less, and was apparently still available.
+I had thought about a school in Frogner where they needed someone to teach languages -- the version of myself that had wanted to do something with words that built things rather than protected against them. That person had survived the war, more or less.
 
-And I had thought about Ingrid on a Tuesday morning in a flat three streets from mine, reading over coffee, and what it would mean to have the time to find out what we were for each other in conditions that permitted names.
+And I had thought about Ingrid on a Tuesday morning in a flat three streets from mine, reading over coffee, and what it would mean to find out what we were in conditions that permitted names.
 
 The town climbed up the hill ahead of me, Narvik in September, the pale northern light lying across the rooftops the way it had lain across them since before anyone living could remember. The mountains above were the same mountains they had always been. The fjord behind me was the same fjord.
 

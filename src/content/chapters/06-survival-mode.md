@@ -8,7 +8,7 @@ epigraphAuthor: "Larsen, to Erik Solberg"
 
 The first month of resistance taught us a new language.
 
-Watchwords and signals replaced military jargon. "The weather will be fine tomorrow" meant Germans patrolling the eastern roads. A scarf hung from a certain window indicated a safe house. A particular arrangement of fishing nets warned of Gestapo in the village. We learned to read the landscape not for tactical advantage but for information -- the parked car that had not moved in three days, the shuttered shop that had been open every morning for thirty years, the child playing in a street that had been quietly cleared of every adult.
+Watchwords and signals replaced military jargon. "The weather will be fine tomorrow" meant Germans patrolling the eastern roads. A scarf hung from a certain window indicated a safe house. A certain arrangement of fishing nets warned of Gestapo in the village. We learned to read the landscape not for tactical advantage but for information -- the parked car that had not moved in three days, the shuttered shop that had been open every morning for thirty years, the child playing in a street that had been quietly cleared of every adult.
 
 We moved like shadows between isolated farmhouses and concealed camps. Our small group from Narvik had merged with others -- local hunters, fishermen, former soldiers -- forming a loose network across the region. I rarely spent more than two nights in the same place. The discipline of this, the constant managed rootlessness, was its own kind of warfare against the self.
 
@@ -18,9 +18,9 @@ The Germans called us terrorists. Their posters covered village walls, offering 
 
 On a morning in late summer I found myself gutting fish on the weathered deck of Larsen's boat, anchored in a small cove sheltered by steep cliffs. The mundane work provided a veneer of normality. The weapons concealed under tarpaulins nearby told a different story.
 
-Larsen worked beside me with the unhurried competence of a man who had been gutting fish for fifty years and had long since stopped thinking about the motion. He was sixty-three, though the number was misleading -- he had the hands and the forearms of a man twenty years younger, built by decades of nets and lines and the particular strength required to haul things out of the sea. He had a fisherman's relationship to silence, which was to say he inhabited it comfortably and broke it only when he had something worth saying.
+Larsen worked beside me with the unhurried competence of a man who had been gutting fish for fifty years and had long since stopped thinking about the motion. He was sixty-three, though the number was misleading -- he had the hands and the forearms of a man twenty years younger, built by decades of nets and lines and hauling things out of the sea. He inhabited silence comfortably and broke it only when he had something worth saying.
 
-"You've improved," he said, watching my technique with an expression that was somewhere between approval and mild scepticism. "Almost as good as a fisherman's son should be."
+"You've improved," he said, watching my technique with something between approval and mild scepticism. "Almost as good as a fisherman's son should be."
 
 "My father would be surprised," I said. "I avoided this job when I could."
 
@@ -46,7 +46,7 @@ I had known that Larsen had lost two sons earlier in the war -- it had come up i
 
 "Does it matter? That you're still alive?"
 
-He looked at me sideways. "That's the question, isn't it. I've decided it does. Not for any deep reason. Just that while I'm here, I can do things. Move people. Move supplies. Know the water in ways that the Germans don't and can't." He gestured at the cove, the cliffs, the particular grey quality of the water. "This is my country. Every inlet, every current, every place you can hide a boat and every place you can't. That knowledge is worth something. As long as it's worth something, I'm useful. As long as I'm useful, it seems worth staying."
+He looked at me sideways. "That's the question, isn't it. I've decided it does. Not for any deep reason. Just that while I'm here, I can do things. Move people. Move supplies. Know the water in ways that the Germans don't and can't." He gestured at the cove, the cliffs, the grey water. "This is my country. Every inlet, every current, every place you can hide a boat and every place you can't. That knowledge is worth something. As long as it's worth something, I'm useful. As long as I'm useful, it seems worth staying."
 
 It was the most he had said to me in the weeks I had known him, and it arrived without any apparent self-consciousness -- the way things are said by people who have already thought them through completely and are merely conveying the conclusion.
 
@@ -68,7 +68,7 @@ We tensed, hands moving instinctively. Betrayal and carelessness had already cla
 
 The tension eased, though not entirely. An unscheduled arrival meant urgent news.
 
-She guided her rowboat alongside with practised ease, her face showing the particular flatness of someone who has been moving hard for a long time and is running on will rather than energy. I helped her aboard and offered her coffee.
+She guided her rowboat alongside with practised ease, her face flat with exhaustion -- the look of someone running on will rather than energy. I helped her aboard and offered her coffee.
 
 She accepted it without ceremony. "Needed to avoid the checkpoints. They've doubled patrols along the main roads."
 
@@ -114,7 +114,7 @@ My chest tightened the way it always did when a conversation took that direction
 
 She said it simply, with no preparation, and it hit me with precisely the force that simple true statements carry when you have been holding the alternative possibility at a careful distance for months.
 
-I was aware of the railing under my hands. The cold of it. The fjord beyond the cove, grey and flat. I had not realised how much weight I had been carrying until a fraction of it lifted, and the lifting itself told me the weight's shape.
+I was aware of the railing under my hands. The cold of it. The fjord beyond the cove, grey and flat. I had not realised how much weight I had been carrying until a fraction of it lifted.
 
 "Trondheim?" I managed.
 
@@ -150,13 +150,13 @@ She moved away to help Eriksen with the radio equipment. I turned toward the wat
 
 My parents were alive. My father had looked cooperative and revealed nothing. My mother had not changed very much.
 
-I stayed with this information for a long moment, letting it find its shape in me. Then I picked up my fish and went back to work.
+I stayed with this information for a long moment, turning it over the way you turn a stone in your hand. Then I picked up my fish and went back to work.
 
 ---
 
 Night fell with fog rolling in from the sea.
 
-Larsen's boat moved silently along the coastline, engine muffled by improvised baffles, its running lights dark. Eriksen navigated by landmarks -- a cliff face that caught the faint starlight, a particular shape of headland, the sound of water on specific rocks. I sat near the bow with a Sten gun across my knees, British-made and reliable enough in most conditions but prone to jamming in wet cold.
+Larsen's boat moved silently along the coastline, engine muffled by improvised baffles, its running lights dark. Eriksen navigated by landmarks -- a cliff face that caught the faint starlight, the shape of a headland, the sound of water on specific rocks. I sat near the bow with a Sten gun across my knees, British-made and reliable enough in most conditions but prone to jamming in wet cold.
 
 The fourth man was Petersen, a newcomer vouched for by Ingrid, a former dock worker who knew these inlets nearly as well as Larsen.
 
@@ -236,7 +236,7 @@ I broke contact when the Germans began spreading to flank. Moving fast uphill th
 
 The journey to Olsen's farm took nearly two hours -- wide detours around checkpoints, careful crossings of open ground. Dawn was beginning to grey the sky when the farmhouse appeared in its small valley.
 
-I used the recognition signal and waited. Anna Olsen opened the door a fraction, her face tight with the particular expression of a woman who has sent men into the dark and is counting them back.
+I used the recognition signal and waited. Anna Olsen opened the door a fraction, her face tight -- counting us back.
 
 "Quickly," she said.
 
@@ -246,7 +246,7 @@ Inside: the wall of kitchen warmth, the smell of coffee, Eriksen at the table. A
 
 The expression on Eriksen's face was the answer.
 
-Anna disappeared to the root cellar and came back with bread and cold meat and set them down without comment, the way she managed everything -- without ceremony, without requiring acknowledgement, simply doing what was needed. She had a quality I had come to associate with certain people in the resistance, women especially: a complete absence of drama around things that deserved drama, which was different from not feeling them.
+Anna disappeared to the root cellar and came back with bread and cold meat and set them down without comment, the way she managed everything -- without ceremony, without requiring acknowledgement, simply doing what was needed. She carried no drama around things that deserved drama, which was not the same as not feeling them.
 
 "Clean clothes in the back room," she said. "You'll stay today and move after dark."
 
@@ -282,7 +282,7 @@ After Anna cleared the table, I found the back room and slept.
 
 I slept through the day and woke to darkness and Haugen's voice.
 
-He stood over the bed in the faint light from the covered window. He had the careful stillness of a man about to say something he has carried for hours.
+He stood over the bed in the faint light from the covered window, very still.
 
 "Larsen's dead."
 
@@ -298,9 +298,7 @@ I took the cap. The weight of it was wrong -- too light, the way objects become 
 
 "They're returning his body to the village tomorrow," Haugen said. "As a warning."
 
-I did not say anything immediately. I was thinking of the cove that morning, Larsen working beside me, talking about his sons with the same matter-of-fact composure he applied to everything. _Magnus was twenty-eight. Sigurd twenty-four._ He had said it the way you state facts about the weather or the tide -- true things that don't require any particular framing because the framing would be redundant.
-
-And the thing he had said about usefulness. _While I'm here, I can do things._ A calculation that had been his alone to make, and that he had made, and that had brought him to the cove and then to the boat and then to whatever had happened in the dark fog on the water.
+I did not say anything immediately. I was thinking of the cove that morning, Larsen working beside me, talking about his sons with the same composure he applied to everything. _While I'm here, I can do things._ A calculation that had been his alone to make, and that had brought him to the cove and then to the boat and then to whatever had happened in the dark fog on the water.
 
 "He knew the risk," I said.
 
@@ -314,7 +312,7 @@ The cap was still in my hands. I set it carefully on the bed beside me, as thoug
 
 "And Trondheim?" I asked.
 
-He sat down on the edge of the bed in the way of a man who has decided this conversation deserves more than a doorway.
+He sat down on the edge of the bed.
 
 "The British want regular intelligence from Trondheim alongside the extraction," he said. "Not just this mission -- a more permanent presence. Someone embedded who can report on shipping movements, troop rotations, new fortifications. They're building toward something larger in the north."
 
@@ -332,9 +330,7 @@ Blackwood. Standing on the deck of the transport ship with the fjord behind him,
 
 After Haugen left I sat alone in the small attic room with Larsen's cap on the bed beside me.
 
-I thought of him in the cove that morning, turning the fish with automatic hands and talking about Magnus and Sigurd in the same level voice he had used to discuss caches and patrol patterns. He had not made a thing of it. He had simply said what was true and then returned to work, which was how he had apparently always done everything that mattered.
-
-Outside, dawn was doing what dawn did over the occupied country, which was to say it arrived without consultation and without permission and lit up the same landscape it had been lighting up for longer than anyone could account for. Wagner and his SS methods and his doubled patrols were a current thing. The landscape was a permanent one.
+Outside, dawn arrived over the occupied country without consultation and without permission, lighting up the same landscape it had been lighting up for longer than anyone could account for. Wagner and his SS methods and his doubled patrols were a current thing. The landscape was a permanent one.
 
 I made Larsen a promise, the same one I had made Kristian, the only promise available to me from here: that when the time came, the thing he had spent his last morning working toward would be worth what it had cost.
 

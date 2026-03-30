@@ -32,11 +32,13 @@ Something settled in his expression -- not surprise, but a kind of completion, a
 
 "Likewise, Captain."
 
+He held the handshake a moment longer than protocol required. "Your friend Kristian," he said. "That night on the overlook, when I was -- well. He brought me coffee without being asked. Didn't say a word. Just set it down and left." A brief, careful smile. "That's the kind of thing one remembers."
+
 His truck pulled away toward the harbour. I watched it go until the tree line took it, and then I went to find Haugen.
 
 ---
 
-The briefing was short. Norwegian officers only, gathered around Haugen's map in the grey predawn light, their faces carrying the specific look of men adjusting to a situation they have accepted rather than one they have made peace with. The distinction mattered.
+The briefing was short. Norwegian officers only, gathered around Haugen's map in the grey predawn light, their faces set in the way of men who have accepted a situation without making peace with it.
 
 Rear guard. Hold the position through the evacuation. Allow the British ships to clear the fjord. Then fall back to the prepared positions in the mountains.
 
@@ -96,13 +98,13 @@ Private Cooper found me as I was setting up the machine gun nest overlooking the
 
 "Thought you'd be gone by now," I said, and heard the edge in my own voice.
 
-"Shipping out in an hour." He shifted his weight, looked at the gun, looked at me. He had the manner of a man who has something to say and is trying to find the version of it that doesn't sound like an excuse. "Listen, Solberg. This isn't right. What we're doing."
+"Shipping out in an hour." He shifted his weight, looked at the gun, looked at me. "Listen, Solberg. This isn't right. What we're doing."
 
 "Following orders is never wrong, isn't that what they teach you?"
 
 "That's not--" He stopped. Frustrated, brief. Then he thrust a small package wrapped in oilcloth into my hands. "Extra ammunition for that Krag. And chocolate. My mum sent it." He paused. "The stuff I brought over to your fire, the first week. Same batch."
 
-The same chocolate his mother had sent that Kristian had eaten with such deliberate neutrality. I looked up at him -- this young British soldier, genuinely troubled by something he had no power to change. His expression was not the expression of a man doing a performatively decent thing. He was, I thought, exactly what he appeared to be: a person who felt things and did not know what to do with the feeling when the thing causing it was larger than him.
+The same chocolate his mother had sent that Kristian had eaten with such deliberate neutrality. I looked up at him -- this young British soldier, genuinely troubled by something he had no power to change. He was, I thought, exactly what he appeared to be: someone who felt things and had no idea what to do about it.
 
 "Thank you," I said. The bitterness went out of me.
 
@@ -124,7 +126,7 @@ From my position on the hillside I watched the boarding. Orderly lines of men ca
 
 The ships moved slowly at first, easing out of the harbour into the main channel of the fjord. The light was going, the sky to the west still holding a faint copper at the horizon, the water darker below it. I could see the shapes of the vessels distinctly at first -- the transport ships, the naval escort, the smaller support craft -- and then less distinctly, as the distance and the failing light worked on them together.
 
-I thought of all the things I might think about watching them go. The betrayal, which was real and which I had largely worked through already on the ridge two nights ago. The calculation that had been made in London about what Norway was worth relative to France, which was a reasonable calculation by certain measures and which I found I could not argue with abstractly and could not accept personally and was going to have to carry both of those things at once. Blackwood's face on the overlook, the cost briefly showing. Cooper's earnest certainty.
+I thought of all the things I might think about watching them go. The betrayal, which was real and which I had largely worked through already on the ridge two nights ago. The calculation made in London about what Norway was worth relative to France. I could not argue with it abstractly. I could not accept it personally. I was going to have to carry both of those things at once. Blackwood's face on the overlook, the cost briefly showing. Cooper's earnest certainty.
 
 I thought about the men beside me on this hillside. Kristian, cleaning his rifle again, the motion so familiar now it was like watching him breathe. Dahl, standing a short distance away, watching the ships with no expression that I could identify. Johansen, who had finally finished his letter and posted it with the last outgoing mail before the communications unit packed up, and who now sat with his hands loose in his lap in the way of a man who has set something down and has not yet decided what to pick up next.
 
@@ -156,7 +158,7 @@ I signalled my squad -- five men where once we had been twelve -- and we began t
 
 I helped him up and we continued. Ahead, Dahl was keeping the Madsen working, laying down suppressing fire in the controlled bursts I had come to recognise as his signature -- not wasteful, not cautious, exactly what the situation required and no more.
 
-We reached the stone farmhouse at the secondary position just as Haugen was organising the next phase. His face was briefly lit by a flare overhead -- sharp, clear lines, the particular look of a man operating without margin.
+We reached the stone farmhouse at the secondary position just as Haugen was organising the next phase. His face was briefly lit by a flare overhead -- sharp, clear lines, no margin left in it.
 
 "They're pushing harder than expected. There's a civilian evacuation on the north road -- families, old people, they're not moving fast enough. We need to buy more time." He looked at me. "Solberg -- take two men and secure the eastern approach. If they flank us there, we're done."
 
@@ -234,7 +236,7 @@ I would not leave him to be buried by German hands in unmarked ground.
 
 ---
 
-Haugen met us at the logging camp perimeter in the dark. He took in what I was carrying and his face registered brief surprise, then the grim compression of a man receiving difficult information he was expecting eventually.
+Haugen met us at the logging camp perimeter in the dark. He took in what I was carrying. Brief surprise, then grim understanding.
 
 "The civilian evacuation is complete," he said. "Your action on the eastern approach bought them the time they needed."
 
@@ -268,7 +270,7 @@ The words were not a surprise. I had been expecting something like them since th
 
 "When, sir?"
 
-"The order was issued two hours ago. By noon, any soldier still bearing arms will be considered a combatant outside the terms of surrender. The legal protections of the Geneva Convention will no longer apply." He gave this information in the same level voice he used for position reports and fire directives -- the voice he had developed, I thought, precisely because men in his position needed to be able to say difficult things without the weight of their own feeling making those things harder than they already were.
+"The order was issued two hours ago. By noon, any soldier still bearing arms will be considered a combatant outside the terms of surrender. The legal protections of the Geneva Convention will no longer apply." He gave this information in the same level voice he used for position reports and fire directives.
 
 He looked at the grave. His expression shifted -- something moved across it briefly, not the controlled professional face but the other one, the face of the man it cost something to be who he was. It was only for a moment. Then the control was back.
 
@@ -282,7 +284,7 @@ Haugen stood before them. He looked at each face in turn, briefly, with the prec
 
 "Norwegian high command has officially surrendered," he said. "We are ordered to lay down our arms. Those who comply will be treated as prisoners of war under the Geneva Convention. Transportation to a collection point will be arranged from the main road. You have until noon."
 
-He paused. The silence was the specific silence of men who have received information of great magnitude and are not yet ready to speak.
+He paused. Nobody spoke. The information was too large for immediate speech.
 
 "Those who make other choices should be in the eastern forest by dusk." He looked at the trees. Then back at the men. "I can say no more than that."
 
@@ -304,6 +306,8 @@ He looked up and found me looking at him.
 
 "My father is dead. It's just us." He looked back at his rifle. "If I'm taken prisoner, she knows where I am. If I go into the forest..." He did not finish.
 
+I thought of Haugen at the edge of the clearing, his wife in Bergen, making the same calculation from the other side -- not whether to stay or go, but what staying would cost the people who needed him to come home.
+
 I sat down beside him. The cold was in the trees and in the ground and in the specific quality of the morning light.
 
 "It's the right choice," I said. "For you."
@@ -324,7 +328,7 @@ He nodded slowly. He picked up his rifle and held it for a long moment -- the ri
 
 He walked toward the main road. He did not look back.
 
-Others followed over the next hour. Berg, who said nothing to anyone and simply walked. Two men from Haugen's original platoon. Each made his calculation in his own way, and each walked with the particular quietness of men trying not to draw attention to a decision they had already committed to.
+Others followed over the next hour. Berg, who said nothing to anyone and simply walked. Two men from Haugen's original platoon. Each made his calculation in his own way, and each walked quietly, not drawing attention to a decision already made.
 
 By the time the hour was done, six had gone to the road. Six remained.
 
@@ -344,8 +348,6 @@ I shouldered my Krag-Jørgensen. The rifle was old and scarred and familiar in a
 
 The eastern forest was dark and dense and had been Norwegian for longer than anyone in it could account for.
 
-As dusk fell I walked toward it. Behind me was Kristian's grave and the uniforms and ranks and protocols of the Norwegian Army and the particular version of the fight that had ended today. Ahead was the other kind.
-
-But also resistance.
+As dusk fell I walked toward it. Behind me was Kristian's grave and the uniforms and ranks and protocols of the Norwegian Army and the version of the fight that had ended today. Ahead was the other kind -- resistance, unformed and unnamed.
 
 For now, that was enough.

@@ -8,11 +8,11 @@ epigraphAuthor: "Erik Solberg, on Captain Blackwood"
 
 The British arrived three days after we secured the northern ridge. They came not as saviours but as equals -- tired men in uniforms much like our own, their faces carrying the same weariness I saw each morning in my shaving mirror. They had been fighting too, somewhere to the south, and it showed in the careful way they moved and the economy with which they used words.
 
-Captain William Blackwood did not waste time with formalities. The moment his boots hit Norwegian soil, he unfurled maps across Lieutenant Haugen's makeshift command table, his fingers moving with the quiet confidence of a man who had done this before and expected to do it again.
+Captain William Blackwood did not waste time with formalities. The moment his boots hit Norwegian soil, he unfurled maps across Lieutenant Haugen's makeshift command table.
 
 "The Germans have established artillery positions here and here," he said, his English accent crisp against the mountain silence. "Our intelligence suggests they're planning to push through this valley within forty-eight hours."
 
-I stood at attention behind Lieutenant Haugen, translating where needed. Haugen's English was functional for orders and reports but lost its footing in the kind of rapid, technically specific exchange that Blackwood favoured -- the clipped shorthand of an officer used to other officers who shared his vocabulary. I watched the moments when Haugen's face tightened slightly, the way it did when he was working to follow something that was moving faster than his comprehension, and I stepped in before he had to ask.
+I stood at attention behind Lieutenant Haugen, translating where needed. Haugen's English was functional for orders and reports but lost its footing in the rapid, technically specific exchange that Blackwood favoured -- the clipped shorthand of an officer used to other officers who shared his vocabulary. When Haugen's face tightened slightly, I stepped in before he had to ask.
 
 Blackwood's eyes found mine at one point and held them.
 
@@ -20,13 +20,13 @@ Blackwood's eyes found mine at one point and held them.
 
 "My father traded fish with Scottish merchants, sir. I learned as a boy."
 
-Something shifted in his expression -- not quite respect, but the precursor to it. "And your name?"
+Something shifted in his expression. "And your name?"
 
 "Corporal Erik Solberg, sir."
 
 "Solberg knows these mountains better than any man in the company," Haugen said. "He can guide your men through terrain the Germans would consider impassable."
 
-Blackwood studied me for a moment longer than was comfortable, as though weighing something that had nothing to do with the maps in front of him. Then he looked back at Haugen.
+Blackwood studied me for a moment longer than was comfortable. Then he looked back at Haugen.
 
 "The German artillery position here." He tapped the map. "Can it be approached from the north face?"
 
@@ -56,7 +56,7 @@ He gave me a brief, direct look. "Good."
 
 That night, huddled around a small fire carefully shielded from enemy view, I found Kristian waiting with the particular stillness that meant he had been working himself up to say something.
 
-The firelight caught the lines tiredness had carved into his face over the past weeks -- deeper than they had any right to be on a man his age. Across the camp, the British soldiers had established their own fires at what was not quite a deliberate distance but felt like one. The two groups coexisted with the carefully maintained indifference of men who were politely uncertain about each other.
+The firelight caught the lines tiredness had carved into his face over the past weeks -- deeper than they had any right to be on a man his age. Across the camp, the British soldiers had established their own fires at a distance that felt deliberate, the two groups coexisting with the polite uncertainty of men not yet sure what they were to each other.
 
 "So you're running errands for the British now," Kristian said. Not a question.
 
@@ -74,7 +74,7 @@ He looked across the camp at the British fires. One of the British soldiers had 
 
 "That's a low standard."
 
-Sergeant Dahl arrived and settled beside us, cradling a tin mug of coffee so weak it was barely coloured. He had the habit of appearing at conversations that concerned him without any particular explanation of how he had known to appear.
+Sergeant Dahl arrived and settled beside us, cradling a tin mug of coffee so weak it was barely coloured. He had the habit of appearing at conversations that concerned him without explanation of how he had known to appear.
 
 "The British have resources we don't," he said, as though continuing a discussion that had been underway. "Artillery, air support when the weather permits. We'd be fools not to work with them."
 
@@ -114,7 +114,7 @@ Dawn found me at Captain Blackwood's tent, my breath forming clouds in the frigi
 
 Two British soldiers emerged from the tent behind Blackwood. The first was Sergeant Mills -- broad-shouldered, with a scar along his jaw that he wore with the unconscious ease of someone who had stopped noticing it years ago. He had the manner of a man who had learned to read people quickly or had paid for the failure to do so, and I felt his assessment of me before he said anything.
 
-The second was Private Cooper. He was younger than I had expected -- perhaps twenty, perhaps slightly less -- with the alert, slightly-too-awake eyes of someone who had seen enough to know that alertness was worth the effort. He had the build of someone who had been strong before rationing and was still strong, just differently. He stood with the patient readiness of a man who had made peace with not knowing what would be required of him in the next hour.
+The second was Private Cooper. He was younger than I had expected -- perhaps twenty, perhaps slightly less -- lean, with alert eyes that moved over the terrain before settling on me. He stood with his hands easy at his sides, waiting.
 
 "Solberg," Blackwood said. "These men tell me you know a route that gives us eyes on the German forward position without exposing ourselves."
 
@@ -130,7 +130,7 @@ A smile broke through his expression. "Good enough for me, Captain."
 
 We set out as the first light pierced the valley. The mountains were turning gold above us, the fjord below a mirror of the sky's slow brightening. Moving single file along a path my grandfather had likely walked, in a country I had known all my life, I could almost forget why we were there. Almost. The rifle slung across my back and the sound of Blackwood's controlled breathing behind me tended to make forgetting difficult.
 
-The path narrowed as we climbed, forcing us into a line -- me at the front, Cooper behind, then Mills, with Blackwood bringing up the rear. The only sounds were our breathing and the occasional scrape of a boot on loose stone. The wind came off the ridge in cold, periodic gusts, carrying the particular smell of high ground in late spring -- snow still on the peaks, the first green beginning below, a clean and indifferent smell that had nothing to do with what we were doing on this slope.
+The path narrowed as we climbed, forcing us into a line -- me at the front, Cooper behind, then Mills, with Blackwood bringing up the rear. The only sounds were our breathing and the occasional scrape of a boot on loose stone. The wind came off the ridge in cold, periodic gusts, carrying the smell of high ground in late spring -- snow still on the peaks, the first green beginning below.
 
 I set the pace deliberately. Fast enough to make the timing work, slow enough that nobody's breathing became a problem on the steep sections. Behind me, Cooper matched it without complaint. He moved quietly for a British soldier -- better than I had expected. He watched where he placed his feet and didn't crowd my heels, which are the two things that matter on steep ground and which men who learned their mountain skills from a training manual rather than a childhood tend to get wrong.
 
@@ -146,7 +146,7 @@ At a wide flat section where an old stone wall ran along the path -- a boundary 
 
 He was quiet for a moment, navigating a section where the path narrowed to a shelf barely wide enough for a boot. "I'm from Wakefield. Not much fog but plenty of hills." He steadied himself with one hand on the rock face. "When this is over you should come. I'd show you round. Nothing special, but the pubs are decent and my mum makes a good pie."
 
-The casual certainty that there would be an afterwards -- that we would both be in it -- struck me as equal parts naïve and necessary. He was young enough that this certainty probably felt like realism to him rather than something that needed to be maintained against evidence.
+The casual certainty that there would be an afterwards struck me as equal parts naïve and necessary.
 
 "I'll hold you to that," I said, because it was the right answer and because some part of me wanted it to be true.
 
@@ -160,11 +160,11 @@ I raised my fist and the column stopped. Below, through a natural notch in the r
 
 ---
 
-The convoy was longer than I had expected. Trucks and light armoured vehicles wound along the valley road in a column that took three minutes to pass our position from head to tail. Blackwood had his binoculars up before he had finished settling behind the rock, scanning methodically from front to rear, his expression carefully empty in the way of an officer processing information before deciding what it meant.
+The convoy was longer than I had expected. Trucks and light armoured vehicles wound along the valley road in a column that took three minutes to pass our position from head to tail. Blackwood had his binoculars up before he had finished settling behind the rock, scanning methodically from front to rear.
 
 "Supply trucks in the main body," he murmured. "Standard configuration. But look at the rear section."
 
-Mills took the binoculars. His expression did not change, but something behind his eyes went still in the way of a man who has just revised his expectations downward. "Troop transports. Loaded. At least thirty men per vehicle."
+Mills took the binoculars. His expression did not change, but something behind his eyes went still. "Troop transports. Loaded. At least thirty men per vehicle."
 
 I counted the transports. Four of them, with another two that I thought might be carrying heavy equipment rather than men. Whatever was in those last vehicles, it sat low enough to suggest it was not light.
 
@@ -172,7 +172,7 @@ I counted the transports. Four of them, with another two that I thought might be
 
 The column passed below us and the road emptied again, returning to its usual silence, though the silence now had a different quality. I kept my eyes on the tree line to the northeast, where the road curved out of sight, and tried to calculate what forty-plus fresh troops meant for the defensive positions I knew.
 
-Cooper was beside me, watching the empty road. He had his rifle ready in a way that suggested he was thinking about what would happen if a vehicle stopped and someone got out and looked up.
+Cooper was beside me, watching the empty road, his rifle ready.
 
 Nothing stopped. The column completed its transit and the engine sounds faded east.
 
@@ -194,19 +194,19 @@ Blackwood looked at me. "Are they likely to know what the gap is worth?"
 
 He was quiet for a moment. The wind moved across the ridge and Cooper shifted his weight behind me.
 
-"Your people have been fighting against impossible odds for a month," Blackwood said. His tone had changed -- still controlled, but with a different quality under it. The question of a man genuinely trying to understand something. "Why haven't you given up?"
+"Your people have been fighting against impossible odds for a month," Blackwood said. His tone had changed -- still controlled, but with something genuine under it. "Why haven't you given up?"
 
 I thought of my father at the end of the street, his hand raised. My mother holding my face in hers. The kitchen that had smelled of bread on the morning the world ended.
 
 "This is our home," I said. "Where else would we go?"
 
-Something settled in his expression. Not surprise -- more the look of a man whose understanding of something has caught up with something he already believed. He nodded once, then turned back to the valley.
+Something settled in his expression. He nodded once, then turned back to the valley.
 
 "We need to report this immediately. The timeline has moved."
 
 ---
 
-Going down was faster than coming up, the urgency in Blackwood's movements transmitting itself through the pace he set without a word being said about it. Mills navigated the descent the way experienced soldiers navigate most things -- efficiently, without wasted motion. Cooper stayed close to my heels in a way that suggested he was focusing on the path and letting the implications of what we had seen settle later, which was probably the correct approach.
+Going down was faster than coming up, the urgency in Blackwood's movements transmitting itself through the pace he set without a word being said about it. Mills navigated the descent efficiently, without wasted motion. Cooper stayed close to my heels, focusing on the path, letting the implications settle later.
 
 Near the bottom, where the path widened enough to walk two abreast, Blackwood fell into step beside me.
 
@@ -222,7 +222,7 @@ He took the map back without looking at it. He was looking at me.
 
 "If you were commanding our combined forces," he said carefully, "what would you do?"
 
-It was not a question I had expected, and the carefulness of it told me that he was asking it seriously, not as a courtesy.
+The carefulness of it told me he was asking seriously, not as a courtesy.
 
 "I'd put someone on the gap," I said. "A small team, observation only. Radio contact. The moment the Germans start moving through it, everyone else needs to know." I paused. "And I'd start thinking about fallback positions, because if they're bringing that many men, the current line isn't going to hold regardless."
 
@@ -238,7 +238,7 @@ I understood what he was asking. "I'll talk to him."
 
 We came back into camp to the smell of cookfires and the sounds of men on stand-to, and I went to find Haugen before Blackwood could reach him first.
 
-He was at his command position reviewing radio traffic with the focused attention of a man who already suspected he was not going to like what it contained.
+He was at his command position reviewing radio traffic.
 
 "The convoy," I said, and told him what we had seen.
 
@@ -276,7 +276,7 @@ The afternoon conversation between Haugen and Blackwood, which I translated, was
 
 Blackwood proposed the fallback positions as his idea. Haugen agreed with them with the air of a man being persuaded. Both left the tent satisfied, and the positions that had existed in Haugen's planning for a week were formally adopted by their combined forces.
 
-Dahl, who had not been present and to whom I described this afterwards, received the account with the expression he had when reality confirmed something he had already filed under obvious.
+Dahl, who had not been present, received the account with the expression he had when reality confirmed something he had already filed under obvious.
 
 "Good," he said. "As long as the positions get used, who thought of them doesn't matter."
 
@@ -286,25 +286,21 @@ Dahl, who had not been present and to whom I described this afterwards, received
 
 ---
 
-The following days found us in the rhythm of a military alliance -- not quite comfortable but functional, two systems learning to coordinate without either fully yielding to the other. British soldiers and Norwegian soldiers shared ground and occasionally shared food and cigarettes, and the harmonica player whose name turned out to be Private Davies played on most evenings, and Kristian complained about it less than he had at the start, which I took as a form of progress.
+The following days found us in the rhythm of a military alliance -- not quite comfortable but functional. British and Norwegian soldiers shared ground, shared food and cigarettes. The harmonica player turned out to be Private Davies, and he played most evenings. Kristian complained about it less than he had at the start, which I took as progress.
 
-I moved between the two groups as my role required, translating not just language but register and intent -- the things Blackwood meant but didn't say, the things Haugen said more directly than Blackwood expected, the friction points that came from two different military cultures trying to operate in the same mountains. When it worked, it worked well. When it didn't, I was generally the person who heard about it from both sides separately.
+I moved between the two groups as my role required, translating not just language but register and intent. When it worked, it worked well. When it didn't, I was generally the person who heard about it from both sides separately.
 
-Cooper sought me out on the third evening. He had been given a task that required him to liaise with a Norwegian supply unit that had established a depot two kilometres east, and the liaise part was proving optimistic given that his Norwegian extended to approximately six words, none of them useful.
+Cooper sought me out on the third evening. He had been given a task that required him to liaise with a Norwegian supply unit two kilometres east, and his Norwegian extended to approximately six words, none of them useful.
 
-"I need someone who speaks Norwegian," he said, with the specific desperation of a man who has tried several approaches and arrived at the direct one.
+"I need someone who speaks Norwegian," he said, with the desperation of a man who has tried several approaches and arrived at the direct one.
 
 "I speak Norwegian," I said.
 
-"Right. Yes. Obviously." He rubbed the back of his neck in a gesture I found unexpectedly familiar. "The thing is, I'm supposed to have already sorted this two days ago. My sergeant thinks I have sorted it. And I haven't."
-
-I looked at him. He had the particular expression of a young man trying to calculate how much trouble he was in.
+"Right. Yes. Obviously." He rubbed the back of his neck. "The thing is, I'm supposed to have already sorted this two days ago. My sergeant thinks I have. And I haven't."
 
 "Come on," I said.
 
-The supply depot was run by a Corporal Eide, a heavyset man from Bodø who had the deeply unhelpful quality of refusing to speak anything but his own regional dialect when he was irritated, which he currently was, because a British soldier had been appearing at his depot for two days and gesturing at things without any discernible system.
-
-It took twenty minutes and a certain amount of patient interpretation on my part. Cooper was a quick study -- he watched how I moved through the conversation, adjusted his own manner accordingly, and by the end had established what I suspected would be a workable arrangement with Eide. He had the instinct for knowing when to let someone else do the talking, which was rarer than it should have been and more valuable than he probably knew.
+The supply depot was run by a Corporal Eide, a heavyset man from Bodo who refused to speak anything but his own regional dialect when irritated, which he currently was. It took twenty minutes and patient interpretation on my part. Cooper was a quick study -- he watched how I moved through the conversation, adjusted his manner accordingly, and by the end had established a workable arrangement with Eide. He knew when to let someone else do the talking, which was rarer than it should have been.
 
 On the walk back, he was quiet for a while.
 
@@ -316,31 +312,17 @@ On the walk back, he was quiet for a while.
 
 "You couldn't handle it. Not speaking the language."
 
-He absorbed this. "Fair point." He looked at the mountains above the tree line, the last light on the peaks. "Do you think we'll hold? Here, I mean. In Norway."
+He absorbed this. "Fair point." He looked at the mountains above the tree line. "My mother writes every week. I write back when I can." A pause. "She sent the chocolate. The bar I brought over."
 
-The question deserved a straight answer. "I don't know. We're doing better than anyone expected. But better than expected isn't necessarily good enough."
+"It was the right thing to do," I said.
 
-He nodded, as though this were the answer he had been prepared for. "At home they told us it was going well. Before we shipped out."
-
-"At home they told you what they knew, probably. Or what they wanted to be true." I pulled my collar up against the wind coming off the slope. "Those aren't always the same thing."
-
-He was quiet for a moment. "My mother writes every week. I write back when I can." A pause. "She sent chocolate."
-
-"The bar you brought over."
-
-"Yes. I thought --" He shrugged. "I don't know what I thought. It seemed like the thing to do."
-
-I thought of what Kristian had said about small gestures meaning more than they looked like, though he had said it in the opposite spirit.
-
-"It was the thing to do," I said.
-
-We came back into camp. Blackwood was standing outside the command tent talking to Mills, and he looked up briefly as we passed and gave the small nod of a man filing information for later use.
+We came back into camp. Blackwood was standing outside the command tent talking to Mills, and he looked up briefly as we passed.
 
 ---
 
-The following week brought the kind of fighting that settled into memory not as distinct events but as a continuous texture -- the rhythm of positions held and lost and retaken, the arithmetic of ammunition and men, the particular exhaustion of waiting that came between engagements. We fought alongside the British in four separate actions along the ridge. In two of them, Blackwood's artillery support was the deciding factor. In one of them, my knowledge of a secondary path down the eastern slope was.
+The following week we fought alongside the British in four separate actions along the ridge. In two, Blackwood's artillery support was the deciding factor. In one, my knowledge of a secondary path down the eastern slope was.
 
-In the fourth, we lost three men. Two Norwegian, one British -- Davies, whose harmonica had marked the evenings since the alliance began. Kristian took the news without visible reaction, which told me more about how he was doing than visible reaction would have. He had learned, the way all of us were learning, to file grief in a place that could be accessed later and keep moving in the present.
+In the fourth, we lost three men. Two Norwegian, one British -- Davies, whose harmonica had marked the evenings since the alliance began. Kristian took the news without visible reaction, which told me more about how he was doing than visible reaction would have.
 
 That evening I found Cooper sitting outside his tent in the dark, not doing anything, just sitting.
 
@@ -354,6 +336,6 @@ I sat down beside him. The camp was settling into its night routine around us.
 
 "He used to drive everyone mad with that bloody harmonica," Cooper said. "Everyone complained about it." He was quiet for a moment. "Nobody's going to complain about the silence tonight."
 
-We sat there for a while, the two of us, while the camp went quiet around us and the mountains above held their shapes against the dark sky the way they always had, as though none of this made any particular difference to them.
+We sat there for a while, the two of us, while the camp went quiet around us and the mountains held their shapes against the dark sky.
 
 It was, in its way, the most honest conversation I had with anyone that week.

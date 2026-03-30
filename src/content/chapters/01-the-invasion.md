@@ -16,13 +16,13 @@ My rifle, a Krag-Jørgensen M1894, had seen better days, but it was ready in my 
 
 It had been like this for days. Skirmish after skirmish, our small platoon holding ground against the advancing Germans. We all knew what was happening: Norway was falling, piece by piece.
 
-From my vantage point I could see the fjord below, its dark waters unnaturally calm amid the chaos of battle. It seemed almost offensive, that stillness.
+From my vantage point I could see the fjord below, its dark waters unnaturally calm amid the chaos of battle.
 
 Three weeks ago I had been a fisherman's son who had barely ventured past Trondheim. Now I was Corporal Erik Solberg, hands raw from the rifle, eyes aching from scanning ridgelines that never stopped producing enemies.
 
 Another volley erupted from the German positions. Beside me, Kristian returned fire and reloaded, cursing steadily under his breath. He was a big man, broad across the shoulders, with a habit of rubbing the back of his neck when he was thinking. He was not thinking now. He was just shooting.
 
-"Do you think your British friends will actually come to our aid?" he muttered, with a bitter edge that had not been there a month ago. His optimism had been the first casualty in this war.
+"Do you think your British friends will actually come to our aid?" he muttered, with a bitter edge that had not been there a month ago.
 
 He reloaded again, then glanced sideways at me. "Did you hear about the Blücher?"
 
@@ -66,6 +66,4 @@ The thought had barely formed when German mortar shells whistled in and demolish
 
 I pressed my back against a pine and looked at Kristian. He met my eyes and said nothing. Neither did I.
 
-I made a silent promise to myself: no matter what comes next, I will not abandon this fight.
-
-Not while Norway still needs its sons.
+I made a silent promise to myself: I would stay. For Kristian beside me, for Haugen on the radio, for my father's boat in the harbour below. I would stay and I would not leave them.

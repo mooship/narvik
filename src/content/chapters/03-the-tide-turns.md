@@ -10,13 +10,13 @@ The operation had been a success by military standards. We had repelled three Ge
 
 And yet.
 
-The feeling was difficult to name precisely, but it had been building for days -- a quality in the air of the camp, in the way men moved and spoke, that had nothing to do with the tactical situation and everything to do with something underneath it. Supplies were running low, not critically but noticeably. The resupply shipments that had been promised were not arriving on the promised schedule. Officers spoke in shorter sentences. The British soldiers, who had been gradually integrating with our unit over the preceding weeks -- sharing fires, sharing cigarettes, developing the kind of wordless understanding that comes from sleeping in the same cold and standing the same watches -- had begun to keep more to themselves.
+The feeling was difficult to name precisely, but it had been building for days -- a quality in the air of the camp, in the way men moved and spoke, that had nothing to do with the tactical situation and everything to do with something underneath it. Supplies were running low, not critically but noticeably. The resupply shipments that had been promised were not arriving on the promised schedule. Officers spoke in shorter sentences. The British soldiers, who had been gradually integrating with our unit over the preceding weeks, had begun to keep more to themselves.
 
-I noticed it first in the small things. A British sergeant who had taken to eating with our section stopped appearing at our fire. Equipment that had been casually stacked began reappearing in organised piles near the British vehicles. Nothing definitive. Nothing you could point to and call evidence. Just a shift in the texture of the camp that I could not stop returning to in the spaces between duties.
+I noticed it first in the small things. A British sergeant who had taken to eating with our section stopped appearing at our fire. Equipment that had been casually stacked began reappearing in organised piles near the British vehicles. Nothing definitive. Just a shift in the texture of the camp that I could not stop returning to.
 
 We had been holding this ridge for three weeks. Three weeks of successful resistance, of proving that Norwegian soldiers on Norwegian ground could make the Germans pay for every metre. Every morning when I watched the fjord below and thought of my father's boat still at its moorings in Narvik -- or wherever it was now, I had not had word since the mobilisation -- I reminded myself of this. _We are holding. We are holding._ It had started as conviction and was becoming, gradually, something more like prayer.
 
-I was cleaning my rifle when Captain Blackwood approached. His uniform was more dishevelled than usual, dark circles prominent beneath his eyes. He had the look of a man who had been managing something difficult for longer than was comfortable.
+I was cleaning my rifle when Captain Blackwood approached. His uniform was more dishevelled than usual, dark circles prominent beneath his eyes.
 
 "A word, Solberg?" Not really a question.
 
@@ -44,7 +44,7 @@ The cold that found me in that moment had nothing to do with the temperature.
 
 "Is there something I should know, Captain?"
 
-He was quiet. He had the particular stillness of a man managing a significant weight, holding it level through concentration rather than ease. "The Germans moved on France and the Low Countries a week ago. You may have heard fragments."
+He was quiet for a moment, holding himself still. "The Germans moved on France and the Low Countries a week ago. You may have heard fragments."
 
 "Rumours."
 
@@ -56,13 +56,13 @@ He did not deny it. "I'm speaking carefully because I am not authorised to speak
 
 I looked at the grey fjord below. It lay still, as it always lay still, indifferent to everything on its banks. "What will happen to our men? If the calculations go a certain way."
 
-He held his gaze on the water. "Some arrangement would be made. I would work to ensure it was as fair as possible." A pause. "Men with particular skills, with language -- there would be options for those men. For you specifically, there would be options."
+He held his gaze on the water. "Some arrangement would be made. I would work to ensure it was as fair as possible." A pause. "Men with language skills -- there would be options. For you specifically, there would be options."
 
-I understood what he was building for me, under the words. An exit. Constructed with care and genuine concern, from real regard for me as a person. It was still an exit.
+I understood what he was building for me, under the words. An exit.
 
 "What about the men without options?" I said.
 
-He turned to look at me properly. For a moment, beneath the officer's composure, I saw the man it cost him to be -- not a man without conscience, not a man comfortable with what he was telling me, but a man carrying a weight he had not chosen and could not set down. A man who had accepted that the world contains situations in which all available choices are inadequate and the task is to find the least inadequate one. It was not the face of a coward. It was not a face I wanted to see on him.
+He turned to look at me properly. For a moment, beneath the officer's composure, I saw the man it cost him to be -- not a man without conscience, but a man carrying a weight he had not chosen and could not set down. It was not the face of a coward. It was not a face I wanted to see on him.
 
 "The arrangement will be as fair as possible," he said again. The only answer available to him.
 
@@ -76,7 +76,7 @@ Blackwood and I exchanged a glance. The British officer did not seem surprised.
 
 ---
 
-The command tent held people I had not seen before -- Norwegian naval officers who had apparently arrived during the night. They had the manner of men who had come a long way to deliver news they did not want to deliver. Maps covered the table, marked with notations that were outside my infantry vocabulary but whose overall direction I could read: consolidation, contraction, the geometry of men deciding what they can and cannot hold.
+The command tent held people I had not seen before -- Norwegian naval officers who had apparently arrived during the night. Maps covered the table, marked with notations outside my infantry vocabulary but whose direction I could read: consolidation, contraction, the geometry of retreat.
 
 "Corporal Solberg," Haugen said. "You're being reassigned to assist with coordination between our forces and the British. Your English skills are needed."
 
@@ -84,7 +84,7 @@ The command tent held people I had not seen before -- Norwegian naval officers w
 
 The naval officers exchanged glances. A Commander stepped forward. "We're consolidating our defensive positions. The British Royal Navy is sending additional vessels to support our coastal defence efforts."
 
-It sounded plausible. It was the kind of thing that was said when something else was meant. I had been in enough military conversations by now to hear the difference between language that contained its meaning and language that was constructed to conceal it.
+It sounded plausible. It was the kind of thing that was said when something else was meant.
 
 "Consolidating where, sir?"
 
@@ -94,7 +94,7 @@ Outside the tent, Kristian was waiting.
 
 ---
 
-He had positioned himself around the corner from the tent entrance, which was not quite hiding but was as close to it as a man his size could manage. His rifle was slung across his back and he was rubbing the back of his neck with the focused energy of a man who had been thinking hard about something and had not arrived at anything satisfying.
+He had positioned himself around the corner from the tent entrance -- not quite hiding, but as close to it as a man his size could manage. His rifle was slung across his back and he was rubbing the back of his neck.
 
 "Did they tell you?" he said, without any preliminary.
 
@@ -106,7 +106,7 @@ He looked around the camp with the quick, practiced assessment of a man checking
 
 He had been on the early radio watch -- four until six in the morning, the shift nobody wanted, when the cold was deepest and the mind most resistant to sharpness.
 
-He told it to me in pieces, the way it had arrived -- the way things arrive on an early watch when you have been sitting in a wooden box with a headset on for two hours and most of what you have received is routine and your attention has gone to the slightly glazed place it goes when nothing requires it.
+He told it to me in pieces, the way it had arrived. Two hours into the early watch, routine traffic, attention glazing over. Then something that was not routine.
 
 The British used a rotating set of frequencies for different types of traffic. He had learned the pattern over the past weeks, partly from listening and partly from correlating what he received with what he observed happening in camp. The administrative frequency was the least encrypted of them -- routine logistics, personnel accounting, the internal paperwork of a functioning military unit, none of which was particularly sensitive.
 
@@ -118,7 +118,7 @@ _Extraction timeline. Priority classification: OMEGA. All elements, central sect
 
 He had written it down as it came, his pencil moving in the cold. The transmission had lasted four minutes. By the end of it he had enough.
 
-"They're withdrawing," he said to me, behind the supply shed, his voice carrying the flat certainty of a man reporting rather than interpreting. "All forces from central Norway, within the week. Not repositioning. Withdrawing. The word in the transmission was evacuation."
+"They're withdrawing," he said to me, behind the supply shed. His voice was flat. "All forces from central Norway, within the week. Not repositioning. Withdrawing. The word in the transmission was evacuation."
 
 The cold that had found me on the overlook settled deeper now.
 
@@ -132,11 +132,11 @@ I thought of Blackwood on the overlook that morning. _Nothing has been decided y
 
 "Where are they going?" I asked.
 
-"South first. Then Britain. The transmission used a phrase --" he looked at his notes without taking them out again, having memorised them -- "strategic reassessment of allied commitments in the northern theatre." The bitterness in his voice when he said it was not the bitter disappointment of a man who had trusted something that failed him. It was something cooler and more finished. He had stopped trusting this weeks ago. This was merely the proof arriving.
+"South first. Then Britain. The transmission used a phrase --" he looked at his notes without taking them out again, having memorised them -- "strategic reassessment of allied commitments in the northern theatre." The bitterness in his voice was cool and finished. He had stopped trusting this weeks ago. This was merely the proof arriving.
 
 "Pretty words," he said. "For running away."
 
-I stood with it for a moment. The supply shed behind me smelled of canvas and cold oil. In the main camp, twenty metres away, the ordinary sounds of morning continued -- men at their duties, the smell of cook fires, the distant sound of the watch changing. None of it had changed. The camp looked identical to what it had looked like yesterday morning. The information Kristian carried had no visible form.
+I stood with it for a moment. The supply shed behind me smelled of canvas and cold oil. In the main camp, twenty metres away, morning continued. The camp looked identical to yesterday. The information Kristian carried had no visible form.
 
 "Before we do anything," I said, "I need to think."
 
@@ -148,7 +148,7 @@ I was not certain he was wrong. But I was not yet willing to say so.
 
 That night, sleep would not come.
 
-I lay in my sleeping position for an hour listening to the camp. Not to the sounds that were always there -- the distant watch, the wind on the ridge, the occasional movement of men whose sleep was light -- but to the quality beneath them. The camp had a sound when it was static, a particular background noise made of a hundred small regularities. I had been listening to it for three weeks and knew it the way you know a piece of music well enough to notice when a note goes wrong.
+I lay in my sleeping position for an hour listening to the camp. Not to the sounds that were always there -- the distant watch, the wind on the ridge -- but to the quality beneath them. The camp had a sound when it was static. I had been listening to it for three weeks and knew it the way you know a piece of music well enough to notice when a note goes wrong.
 
 The note was wrong.
 
@@ -204,7 +204,7 @@ For a while neither of us spoke. The distant watch fires of the German positions
 
 "And now?"
 
-"Fourth time." His voice was as level as it always was, but the levelness had a different quality tonight -- not the controlled calm of a man who was not affected, but the steady voice of a man who was affected and had decided to carry it anyway. "They'll announce it at the last possible moment. Keeps the situation manageable until it isn't."
+"Fourth time." His voice was level, but the levelness had a different quality tonight. "They'll announce it at the last possible moment. Keeps the situation manageable until it isn't."
 
 "They can't just leave us," I said, and heard immediately how naïve it sounded, like something I would have said six weeks ago. "Norway is their ally."
 
@@ -230,17 +230,17 @@ By midday I had positioned myself, with the ordinary freedom of movement my role
 
 I was still deciding how to confront Blackwood directly when I saw the ships.
 
-They came up the fjord in the late afternoon, visible from the ridge as dark shapes resolving slowly into recognisable forms. Not the warships that had been discussed -- not the cruisers and destroyers that were going to reinforce our coastal position. Transport vessels. The kind built for moving large numbers of men over water, not for engaging the enemy. Three of them, moving with purpose.
+They came up the fjord in the late afternoon, visible from the ridge as dark shapes resolving slowly into recognisable forms. Transport vessels. The kind built for moving large numbers of men over water, not for engaging the enemy. Three of them, moving with purpose.
 
 My hands clenched at my sides.
 
-Below me on the path, Blackwood appeared. He stopped beside me and followed my gaze down to the fjord, and for a moment we simply looked at the ships together. He had the expression of a man who had arrived at the end of something he had been managing for a long time and was experiencing the particular exhaustion of a managed problem that could no longer be managed.
+Below me on the path, Blackwood appeared. He stopped beside me and followed my gaze down to the fjord, and for a moment we simply looked at the ships together.
 
 "You deserved to hear this officially," he said quietly. "Not like this."
 
 "When?" One word, because that was all I had room for at that moment.
 
-"Three days. The evacuation order came directly from London. It's not a field decision." He said this not as an excuse but as context, the difference mattering to him even if I was not certain it mattered to me. "I've been trying to find a way to tell you that was less -- " He stopped. "There wasn't one."
+"Three days. The evacuation order came directly from London. It's not a field decision." He said this as context, not excuse. "I've been trying to find a way to tell you that was less -- " He stopped. "There wasn't one."
 
 "And the Norwegians? What are we told? What are we offered?"
 
@@ -250,17 +250,17 @@ He was quiet long enough that the silence was its own answer. Then: "Approximate
 
 He did not deny it.
 
-Something happened inside me in that moment that I did not fully understand until later. It was not rage -- I had expected rage and was surprised by the absence of it. It was something quieter and more permanent. A last door closing. Not a dramatic closure, not a slamming, but the quiet sound of a latch engaging. The part of me that had been waiting for the situation to be something other than what it was finally stopped waiting.
+Something happened inside me in that moment that I did not fully understand until later. It was not rage. It was something quieter and more permanent -- the quiet sound of a latch engaging. The part of me that had been waiting for the situation to be something other than what it was finally stopped waiting.
 
 "I need to tell my men," I said.
 
 "Officially, I cannot allow that." He made no move to stop me. "Solberg." I had started to turn away; his voice caught me. "If I could change this, I would."
 
-I looked back at him. He meant it. I was certain of that. He was a decent man inside an indecent situation, and his decency had not prevented the situation from being what it was, and we both knew that.
+I looked back at him. He meant it. His decency had not prevented the situation from being what it was, and we both knew that.
 
 "Would you stay?" I asked. "If the choice were yours alone?"
 
-Something moved through his expression -- a fracture in the officer's composure, brief and real. He was, for a moment, not the controlled professional who had arrived on our ridge with his maps and his clipped certainty. He was a man who had made a promise, in the general way that soldiers make promises to the men beside them, and had discovered that the promise could not be kept.
+Something moved through his expression -- a fracture in the composure, brief and real. He was a man who had made a promise, in the general way that soldiers make promises to the men beside them, and had discovered that the promise could not be kept.
 
 "I have my orders," he said finally. A true answer and an incomplete one simultaneously.
 
@@ -268,7 +268,7 @@ Something moved through his expression -- a fracture in the officer's composure,
 
 ---
 
-The Norwegian officers had been informed that morning. I found Haugen at the command position, not reviewing maps or radio traffic as he usually was, but simply sitting. Looking at the ridge. He had the particular stillness of a man who has received his information and is now working out what to do with it, and has not yet found an answer he can use.
+The Norwegian officers had been informed that morning. I found Haugen at the command position, not reviewing maps or radio traffic as he usually was, but simply sitting. Looking at the ridge.
 
 He looked up when I arrived. We both knew what I knew and neither of us pretended otherwise.
 
@@ -290,9 +290,9 @@ The silence that followed was different from the silence after bad news in a fir
 
 The murmurs that followed were not loud. Men speaking in the voice you use when you have something to say and are not sure there is a useful place to say it. Mikkelsen, who was three years younger than me and had been corresponding with a girl in Bodø since before the invasion, was looking at the tent floor with his jaw set. Lunde, who had a wife and two small children in Ålesund and had stopped talking about them sometime in the second week on the ridge, was rubbing the inside of his wrist in the repetitive way he had when he was trying not to feel something. Berg, who had never been talkative even before any of this and was less so now, simply nodded once, as though this confirmed something he had already concluded.
 
-Fairness is an inadequate anesthetic for cruelty. Haugen's lottery was as fair a mechanism as could be devised for an unjust situation, and it mattered not at all to the men looking at the fact of it. Thirty per cent. Someone had sat in a room somewhere and decided that this was the appropriate number of Norwegians to rescue from the consequences of a decision taken at levels above them, and the arithmetic of it was going to divide this tent into those who continued and those who did not, and there was no version of that which was other than what it was.
+Fairness is an inadequate anesthetic for cruelty. The lottery was as fair as arithmetic could make it. It mattered not at all to the men looking at the fact of it.
 
-Haugen fielded questions for fifteen minutes. Some were practical -- when would the lottery be drawn, where would the transport be, what should men who were not selected do. Some were not quite questions but the form questions take when a man needs to say something and the only available shape is interrogative. Haugen answered the practical ones precisely and the others honestly, which is to say he said he did not know, and he said it in a way that acknowledged the weight of not knowing.
+Haugen fielded questions for fifteen minutes. Some were practical -- when would the lottery be drawn, where would the transport be, what should men who were not selected do. Some were not quite questions but the form questions take when a man needs to say something. Haugen answered the practical ones precisely and the others honestly, which is to say he said he did not know.
 
 When the tent dissolved into smaller conversations, I found Kristian at the edge of it, standing apart, watching the other men with the expression he had when he was thinking about something he did not want to think about.
 
@@ -302,15 +302,13 @@ When the tent dissolved into smaller conversations, I found Kristian at the edge
 
 "I haven't decided."
 
-His expression changed. Not the way a face changes when it receives unexpected news, but the way it changes when it receives confirmation of something it had already feared. "The Erik I grew up with wouldn't hesitate. The Erik who stood in the street in Narvik on the ninth of April and said _yes_ before I'd finished asking the question -- he wouldn't be hesitating."
+His expression changed. "The Erik I grew up with wouldn't hesitate. The Erik who stood in the street in Narvik on the ninth of April and said _yes_ before I'd finished asking the question -- he wouldn't be hesitating."
 
 "That's not entirely fair."
 
 "No," he agreed. "It's not." He was quiet for a moment. "But it's what I think."
 
-His words found the exact place they were aimed at, which was the part of me that had been arguing with itself since the overlook, since the ships, since the sound of Dahl's voice saying _that's why we'll stay._ The argument in my head sounded, when I listened to it honestly, less like reasoning and more like a man trying to find a version of leaving that he could live with.
-
-Continuing the fight from Britain might accomplish more than being captured here. This was true. It might. But it was also the kind of true thing that can be used to justify things that are not, at their core, about truth.
+His words found the exact place they were aimed at. The argument in my head sounded, when I listened to it honestly, less like reasoning and more like a man trying to find a version of leaving that he could live with.
 
 "I need time," I said.
 
@@ -332,33 +330,29 @@ Below, the fjord held the lights in its still water. The reflection was not a pe
 
 In three days they would take thirty per cent of the remaining Norwegian forces.
 
-I stood with that number for a while. Thirty per cent. Haugen had said it in the flat voice he used for operational facts, the same voice he used for ammunition counts and position distances, and I had watched what it did to the faces of the men in the tent. The number was designed to be fair. It distributed the cruelty as evenly as arithmetic could manage. It was still thirty per cent.
+The choice before me was the kind of choice that feels impossible not because there is no right answer but because the right answer requires you to be a certain kind of person, and you are not yet certain you are that person.
 
-The choice before me was the kind of choice that feels impossible not because there is no right answer but because the right answer requires you to be a certain kind of person, and you are not yet certain you are that person. Both sides of the argument were real. Neither could be dismissed.
+Staying meant probable capture or worse. Three weeks of successful resistance had been real and mattered, but it was not the same thing as winning. Staying meant choosing a losing fight on moral grounds, and the people who loved me would not thank me for it if I did not come back.
 
-Staying meant probable capture or worse. The German advance was methodical and it was not slowing. Three weeks of successful resistance had been three weeks of men who knew the ground making the Germans pay for it, and that was real and mattered, but it was not the same thing as winning and it was becoming, measurably, less sustainable. Staying meant choosing a losing fight on moral grounds rather than a possibly useful existence elsewhere, and the people who loved me would not thank me for it if I did not come back.
-
-Going meant leaving Norway. Not temporarily -- leaving it in the sense of stepping off a ship in a foreign country while the thing I was supposed to be defending fell behind me. It meant leaving my father's boat in the harbour and my mother's kitchen and the fjord I had been measuring myself against since I was old enough to go out on it. It meant leaving Kristian, who had already decided and would not reconsider and whose decision I understood completely, and going to Britain, and contributing to a war effort that had just demonstrated in very clear terms what Norway weighed in its calculations.
+Going meant leaving Norway. Not temporarily -- leaving it in the sense of stepping off a ship in a foreign country while the thing I was supposed to be defending fell behind me. It meant leaving my father's boat, my mother's kitchen, the fjord. It meant leaving Kristian, who had already decided and would not reconsider, and going to Britain -- a country that had just demonstrated in very clear terms what Norway weighed in its calculations.
 
 The case for going was rational. The case for staying was something else.
 
 I thought of Dahl, who had said _that's why we'll stay_ without drama and without apparent effort, as though the answer had been filed away long before the question arrived. I thought of Haugen, sitting at his command position with the stillness of a man who had received his impossible situation and was working out what to do with it, not because he expected a good solution but because working out what to do with things was what you did. I thought of Kristian's voice: _the Erik who said yes before I'd finished the question._
 
-Was that an accurate description of me? I had been turning it over since the mess tent. It was not entirely accurate -- I had hesitated on the dock, I had said _maybe next week_ to my father about the boat, I had been full of the young man's vague ambitions that amounted to an extended act of avoidance. The Erik who had answered Kristian's implicit question on the street in Narvik on the ninth of April had not been the consistent version of himself. He had been, for that one moment, the best version. The version that existed when the situation stripped away the room for equivocation.
+Was that an accurate description of me? It was not entirely accurate -- I had hesitated on the dock, I had said _maybe next week_ to my father about the boat. The Erik who had answered Kristian on the street in Narvik on the ninth of April had not been the consistent version of himself. He had been, for that one moment, the best version. The version that existed when the situation stripped away the room for equivocation.
 
 The situation was stripping away the room now.
 
-I thought about my father on the dock, turning the _Sigrid's_ keys over in his hand. The shrapnel in his left leg. The war he had come back from quieter than he had left it, which I had never asked him about because he would not have answered, and which I understood now as something you carry rather than something you speak. The particular expression he had for things he was going to say carefully. The way he had watched Kristian and me walk away from the corner of the street.
+I thought about my father on the dock, turning the _Sigrid's_ keys over in his hand. The shrapnel in his left leg. The war he had come back from quieter than he had left it, which I understood now as something you carry rather than something you speak. The way he had watched Kristian and me walk away from the corner of the street.
 
 The lights moved above the fjord.
 
 I made my decision.
 
-Not in the dramatic way of stories, where clarity arrives like a physical thing and everything simplifies. It was not like that. It was more like recognising something I had already known -- something that had been present for days, waiting for me to stop arguing around it and look at it directly. When I finally looked at it, it was not complicated. It was the simplest thing I had thought all day.
+Not in the dramatic way of stories. It was more like recognising something I had already known -- something that had been present for days, waiting for me to stop arguing around it and look at it directly. It was the simplest thing I had thought all day.
 
-I was Norwegian. This was Norway. The people I loved were here. The ground I knew was here. I had come up the mountain in April with a rifle and a fisherman's son's ignorance of what war actually was, and I had learned a great deal since then, and none of what I had learned suggested that leaving was the correct application of what I now knew.
-
-That was all. It was not heroism. It was geography, and obligation, and the particular stubbornness that Kristian had been trying to articulate when he described the man who had answered before the question was finished.
+I was Norwegian. This was Norway. The people I loved were here. The ground I knew was here.
 
 I stayed on the ridge for a long time, watching the lights until they faded, which took another hour. The cold settled into my bones with the patience of something that had all the time in the world.
 

@@ -12,7 +12,7 @@ My hometown -- once vibrant with fishing boats and merchant vessels, children ru
 
 The Nidaros Cathedral still dominated the skyline with the indifference of something that had been there nine hundred years and expected to be there nine hundred more. I had grown up with that cathedral. It had always seemed to me the most Norwegian thing in Norway -- not because it was beautiful, though it was, but because it had refused to be anything other than what it was through everything that had been thrown at it. Even the Germans, apparently, were not immune to it. They left it alone.
 
-Everything else was changed or changing. The warehouses along the harbour where I had played as a boy now stored military supplies behind new barbed wire. The café where my father had occasionally taken me on school days -- the one that had always smelled of strong coffee and cardamom buns -- now served German officers who sat at the same tables and looked out the same windows at the fjord. The wharves were busy with a different kind of busy: military traffic, controlled, purposeful, nothing that was not accounted for by someone's ledger.
+Everything else was changed or changing. The warehouses along the harbour where I had played as a boy now stored military supplies behind new barbed wire. The café where my father had occasionally taken me on school days -- the one that had always smelled of strong coffee and cardamom buns -- now served German officers. They sat at the same tables and looked out the same windows at the fjord. The wharves were busy with a different kind of busy: military traffic, controlled, purposeful, nothing unaccounted for.
 
 I observed all of this through unfamiliar eyes -- those of Karl Bergman, a labourer from Oslo assigned to the submarine pen construction project. My hair had been darkened, a beard grown to change the shape of my face. Even my posture was different, the straight-backed military bearing replaced by the slight stoop of a man accustomed to physical work.
 
@@ -133,7 +133,7 @@ We walked side by side, maintaining the fiction of strangers sharing a route.
 
 His hand brushed his inside pocket. "Everything requested. Submarine communication protocols, experimental sonar countermeasures."
 
-_Your navy_, I noted -- not _our navy_. A reminder that this man was not Norwegian, not fighting for my country's freedom, but using our network to escape his own situation. Still, his information would help the Allied cause, and by extension Norway's liberation. The calculation was straightforward enough.
+He was not fighting for Norway's freedom -- he was using our network to escape his own situation. But his information would help the Allied cause, and the calculation was straightforward enough.
 
 "The meeting point is the old fishing warehouse at Nyhavna," I said. "Midnight tomorrow. Come alone, bring only essentials."
 
@@ -153,7 +153,7 @@ It stood much as I remembered. The blue paint faded -- my father had been planni
 
 And there she was.
 
-My mother, moving past the window. Setting the table for the evening meal exactly as she had done every day of my childhood, in the same motion she had probably been making since before I was born -- the plates placed in the same order, the glasses after, whatever was practical and sufficient rather than ceremonial. She had never been ceremonial about meals. She had been practical about them, which was its own form of care.
+My mother, moving past the window. Setting the table for the evening meal exactly as she had done every day of my childhood -- the plates placed in the same order, the glasses after, practical and sufficient rather than ceremonial.
 
 I stood very still.
 
@@ -165,7 +165,7 @@ The white picket fence. My father and I had built it the summer I turned fourtee
 
 I could walk to that gate in approximately forty seconds.
 
-Then I saw the car. A dark sedan parked two houses down, unmarked, engine off but with the particular stillness of a vehicle that was occupied rather than empty. Frøya had mentioned surveillance -- not constant, but regular. Someone sitting in that car, possibly watching, more likely looking at a newspaper and waiting for the end of a shift, but there.
+Then I saw the car. A dark sedan parked two houses down, unmarked, engine off but occupied rather than empty. Frøya had mentioned surveillance -- not constant, but regular. Someone sitting in that car, possibly watching, more likely looking at a newspaper and waiting for the end of a shift, but there.
 
 I turned away and walked.
 
@@ -189,7 +189,7 @@ A direct question. The cover story had to be plausible, specific enough to seem 
 
 "A woman," I said, putting embarrassment into my voice. "Norwegian girl from the canteen. Said she lived nearby." A shrug. "Gave me the wrong address, apparently. Or the wrong night."
 
-The shift in his expression was almost immediate -- suspicion easing toward amusement. "Looking for company, eh?" He handed back my papers with the manner of a man who has just reclassified the situation. "The approved establishments are in the harbour district. Cleaner and more reliable."
+The shift in his expression was almost immediate -- suspicion easing toward amusement. "Looking for company, eh?" He handed back my papers, already reclassifying the situation. "The approved establishments are in the harbour district. Cleaner and more reliable."
 
 "Yes, sir," I muttered.
 
@@ -199,17 +199,11 @@ I walked away at the pace of a man who has been caught doing something embarrass
 
 Then I stopped and stood with my back against a building wall for a moment.
 
-The encounter had lasted perhaps ninety seconds. It had gone well. I had the cover story, the documents, the manner. It had gone exactly as training said it should go when it went well.
+The encounter had lasted perhaps ninety seconds. It had gone well.
 
-My hands were not entirely steady.
-
-Not fear of what had just happened -- I had processed that during the encounter itself, the way I had learned to process it, the way the body eventually accommodated the fact of constant risk without collapsing under it. Something else. The proximity of the house. My mother at the window. The white picket fence and the door I had not opened.
-
-I had brought that with me into the encounter, and it had nearly been visible, and I had been lucky that the cover story had been the kind that required embarrassment rather than confidence, because embarrassment and the thing I was actually carrying are not entirely different from the outside.
+My hands were not entirely steady. The proximity of the house. My mother at the window. The white picket fence and the door I had not opened. I had brought all of it into the encounter, and I had been lucky that the cover story required embarrassment rather than confidence.
 
 I stood there until my hands were steady. Then I went back to the barracks.
-
-Sentiment had nearly compromised the operation. I filed this under things to carry more carefully, and did not repeat the approach.
 
 Back at the barracks, a cigarette paper had been tucked into my locker, the writing microscopic: _Extraction moved forward. Original location compromised. New location: St. Olav's Church basement. 23:00 hours._
 
@@ -269,7 +263,7 @@ He paled but nodded. "They've been watching me more closely since this morning. 
 
 He hesitated, his eyes moving to a photograph on the desk. A woman and a girl, perhaps ten years old. He watched me understand.
 
-"My wife and daughter," he said quietly. "They promised the family could come when I agreed to cooperate. Now they're the guarantee of my cooperation."
+"My wife and daughter," he said quietly. "I was developing acoustic detection methods at the Leningrad Polytechnic -- purely theoretical, before the war. They promised the family could come when I agreed to apply the work to submarine systems. Now they're the guarantee of my cooperation."
 
 This changed the operation entirely. The extraction plan covered one person, not three.
 
@@ -281,7 +275,7 @@ I made the decision before I had time to doubt it. "Bring only essential documen
 
 I slipped out before he could respond and resumed the worker's shuffle down the hallway. The reception clerk barely looked up as I left.
 
-The rest of the shift passed in the particular combination of physical labour and focused planning that had become second nature over the past year. The extraction had evolved from a straightforward operation into something considerably more complex. I needed help.
+The rest of the shift passed in physical labour and focused planning, both second nature by now. The extraction had evolved from a straightforward operation into something considerably more complex. I needed help.
 
 After the shift I went directly to the bookshop. The closed sign was up at an unusual hour. A small red thread hung from the doorknob.
 
@@ -319,13 +313,13 @@ Something that had not been present for most of the past two days settled in my 
 
 "No," the old man said quietly. "Not the only calculation that matters." He returned to his sketch, adding detail. "I fought in the first war. Came home with one lung and nightmares that stayed. Survival itself is sometimes the greatest victory. Easy to forget that when you've seen too much death."
 
-I thought of Kristian. Of Larsen. Of the way I had gradually reduced every situation to tactical equations -- risk assessments, operational necessity. Somewhere in the past year the humanity we were supposedly fighting for had become secondary to the fight.
+I thought of Kristian. Of Larsen. Somewhere in the past year the humanity we were supposedly fighting for had become secondary to the fight.
 
 "I'll remember that," I said, and meant it.
 
 ---
 
-Night brought a thin mist off the sea. I moved through side streets in the uniform of a German maintenance worker, toolbox in hand -- wire cutters, a silenced pistol, and the small incendiary device I hoped not to need.
+Night brought a thin mist off the sea. I moved through side streets in the uniform of a German maintenance worker, toolbox in hand -- wire cutters and a silenced pistol.
 
 The family housing complex was less fortified than military installations but still monitored. A single guard at the main entrance, two on perimeter patrol at irregular intervals. Building C stood slightly apart from the others.
 
@@ -391,9 +385,7 @@ The van threaded through Trondheim's darkened streets, avoiding the main roads. 
 
 "Will they hurt my father if they catch him?" Natasha asked suddenly, her voice small in the darkness.
 
-The question cut through everything operational and arrived at the plain truth of what was at stake.
-
-"We won't let them catch him," I said. It was the only honest answer available.
+"We won't let them catch him," I said.
 
 Hammer dropped us at an abandoned fish processing plant near the original meeting point. I established a defensive position with sightlines to all approaches. Irina kept Natasha occupied with quiet word games, and I found myself watching them -- this woman maintaining calm for her child in the back of an abandoned building in an occupied city at midnight -- and thinking of Hammer's words about what actually mattered.
 
@@ -427,45 +419,19 @@ At 00:42, Hammer returned. "German patrols converging from multiple directions. 
 
 "Old smugglers' tunnel from prohibition days. Runs from this building to the water. Narrow, but it holds."
 
-He led us to the cellar, pushed aside fish barrels, revealed a trapdoor. The tunnel beyond was even narrower than the maintenance passage -- barely wide enough upright, the walls glistening with damp, the air thick with disuse.
+He led us to the cellar, pushed aside fish barrels, revealed a trapdoor. The tunnel beyond was barely wide enough upright, the air thick with disuse.
 
 "I'll go first," I said. "Then the girl, her mother, the scientist, then the two of you covering the rear."
 
-We moved as quickly as the wound and the cramped conditions allowed. Water dripped from the ceiling. Twice we cleared debris that had fallen from the walls. Above us, muffled but distinct, came the sounds of vehicles and shouting -- the Germans searching the fish plant we had just left.
+We moved as quickly as the wound and the cramped conditions allowed. Above us, muffled but distinct, came the sounds of vehicles and shouting. The tunnel sloped upward. Salt water on the air. Then a rusted iron door, which resisted until I put my shoulder into it and it gave way with a groan.
 
-"How much further?" Irina asked.
+Beyond: a small rocky cove, the mist thickening over the water, and a fishing boat sitting dark and engine-silent at the shore.
 
-"Not far," Hammer said, with enough uncertainty in his voice that I was glad she could not see his face.
+I held everyone back and surveyed the cove. Deserted, as far as I could tell. The fog was thickening by the minute, visibility dropping to fifteen metres, then ten. I signalled the boat with three flashes and received three in return.
 
-The tunnel sloped upward. Salt water on the air. Then a rusted iron door, which resisted until I put my shoulder into it and it gave way with a groan that seemed to fill the world.
+"Now," Hammer said. "Before it lifts."
 
-Beyond: a small rocky cove, the moon filtered through mist, and a fishing boat sitting dark and engine-silent at the water's edge.
-
-I held everyone back and surveyed the cove before allowing movement. Deserted, as far as I could tell. I signalled the boat with three flashes and received three in return.
-
-"Go. Quickly but quietly."
-
-Natasha went first across the slippery rocks, steadier than she had any right to be. Her mother helped the scientist. The distance to the boat was perhaps thirty metres of exposed shoreline.
-
-We had covered half of it when a searchlight blazed from the headland to our right and swept across the water.
-
-"Down."
-
-We pressed behind a cluster of rocks. The light passed over us, continued its arc, then swung back -- slower, more deliberate. Searching.
-
-"Next pass they'll have us," Hammer whispered.
-
-The scientist's face was pale with pain and fear, but his eyes were clear. "Get my family to the boat," he said. "The documents are what matter. I'll create a distraction."
-
-"No one gets left behind," I said. "Hammer, get them to the boat. I'll handle it."
-
-I was already moving before he could argue -- not toward the searchlight but parallel to the shore, keeping low among the rocks. The incendiary device from the toolbox was in my hand. I found a suitable spot, set the timer for thirty seconds, and pulled back.
-
-The explosion was not large. In the quiet night, it did not need to be. The searchlight swung immediately toward the flames and voices shouted as the German position responded.
-
-I ran back. "Now. Straight to the boat."
-
-We moved as a group, no longer concerned with stealth. The scientist stumbled once; Hammer and I had him between us. Behind us, confused gunfire erupted at shadows near the burning device.
+We moved as a group across the exposed shoreline, the fog swallowing our shapes within steps. Natasha went first across the slippery rocks, steadier than she had any right to be. Hammer and I supported the scientist between us. Behind us, engines and voices from the fish plant -- the search closing in, but blind in the fog.
 
 The crew pulled us aboard, the engine turning over quietly as the last of us cleared the gunwale. The boat slipped away from shore with minimal lights, navigating into the deeper water of the fjord.
 
@@ -473,7 +439,7 @@ Only when the shoreline had become a smudge in the mist did I let my shoulders d
 
 "Thank you," Irina said, looking up.
 
-I nodded. I did not feel that thanks was particularly mine to accept. I had done what the situation required. So had everyone else.
+I nodded.
 
 The boat's captain -- who introduced himself only as Fisherman -- confirmed the rendezvous. "British submarine in ninety minutes. Further out in the fjord. Transfer will need to be quick -- they can only surface briefly."
 
@@ -485,17 +451,13 @@ I thought of Kristian. Of Larsen. Of every person who had made their own calcula
 
 Hammer settled beside me and offered coffee from a thermos. "What now, Solberg? Come back to Trondheim with me, or go with them to Britain?"
 
-I had not considered it. My orders had never specified what came after the extraction.
-
 "London would debrief you personally," the scientist said. "Your knowledge of German installations would be valuable to Allied planning."
-
-The opportunity was real. But so was the pull back toward Haugen, Dahl, Ingrid, the cell still operating in the north. They were still out there, still making their daily calculations.
 
 "The harbour photographs can go with them?" I asked Hammer.
 
 "Better processed in Britain than anything we can manage here."
 
-I handed over the camera, and with it the question resolved itself.
+I handed over the camera.
 
 "My war is here," I said. "Until Norway is free."
 

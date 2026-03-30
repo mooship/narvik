@@ -64,11 +64,11 @@ Oslo hit me differently than Trondheim had.
 
 Trondheim was my home, and its occupation had felt personal, intimate in its wrongness -- each changed building a small insult, each German flag on a familiar street a deliberate affront aimed at someone who knew what had been there before. Oslo was Norway's capital, and the occupation there had a different quality. More theatrical. More deliberate. The Germans had decided Oslo was a symbol and were staging it accordingly.
 
-Swastika flags hung from the government buildings on Karl Johans gate not as afterthoughts but as statements, the cloth enormous and very red against the spring sky. German officers moved through the streets with the ease of men who had stopped imagining the city as anything other than conquered territory -- who looked at Aker Brygge and saw a German harbour, who looked at the Royal Palace and saw a building whose legitimate occupant was conveniently absent. The streets were busy but with the muted efficiency of life under surveillance. People moved with purpose and minimal conversation, the particular economy of a city that had learned public space was no longer reliably safe.
+Swastika flags hung from the government buildings on Karl Johans gate not as afterthoughts but as statements, the cloth enormous and very red against the spring sky. German officers moved through the streets with the ease of men who had stopped seeing it as anything other than conquered territory. The streets were busy but muted. People moved with purpose and minimal conversation.
 
 I kept my head down and moved.
 
-The boarding house in Sagene was a narrow building on a quiet street, its front door painted the dark green of something kept maintained without advertising the maintenance. Borghild herself answered the knock. She was a large woman somewhere in her late fifties, with a broad, still face and the bearing of someone who had been managing things alone for long enough that help had ceased to be something she expected. She looked at me for a moment with the unhurried assessment of a person who makes decisions based on what she sees rather than what she's been told, then stepped back to let me in.
+The boarding house in Sagene was a narrow building on a quiet street, its front door painted the dark green of something kept maintained without advertising the maintenance. Borghild herself answered the knock. She was a large woman somewhere in her late fifties, with a broad, still face and the bearing of someone who had been managing things alone for long enough that help had ceased to be something she expected. She looked at me for a moment, unhurried, assessing, then stepped back to let me in.
 
 "Henrik Aune," I said.
 
@@ -76,7 +76,7 @@ The boarding house in Sagene was a narrow building on a quiet street, its front 
 
 That was the entirety of the welcome. She went back to the kitchen and I took my bag upstairs.
 
-My contact with Professor Aas was arranged through a series of steps I had memorised before leaving the mountains -- a specific bench in Frognerparken, a particular newspaper, a question about the bronze sculptures surrounding Vigeland's famous obelisk. He was a small, precise man in his sixties with the distracted manner of someone whose mind never fully left the problem it was working on. When I made the recognition approach, he barely looked up from the newspaper in his hands.
+My contact with Professor Aas was arranged through a series of steps I had memorised before leaving the mountains -- a specific bench in Frognerparken, a particular newspaper, a question about the bronze sculptures surrounding Vigeland's famous obelisk. He was a small, precise man in his sixties whose mind, you could tell, never fully left the problem it was working on. When I made the recognition approach, he barely looked up from the newspaper in his hands.
 
 "Karl Bergman," I said, using the same cover name I had used in Trondheim. A small economy. Fewer names to keep straight.
 
@@ -98,7 +98,7 @@ Aas nodded. "I expected that. The room in Sagene -- Borghild's place. You've set
 
 "Good. She knows enough to ask nothing."
 
-He folded his newspaper and walked away without another word. The abruptness of it reminded me of Frøya in Trondheim. Resistance had bred a particular economy of expression in these people -- nothing said that didn't need to be, nothing kept that needed to be discarded.
+He folded his newspaper and walked away without another word. The abruptness of it reminded me of Frøya in Trondheim. Resistance had bred an economy of expression in these people -- nothing said that didn't need to be, nothing kept that needed to be discarded.
 
 ---
 
@@ -106,13 +106,11 @@ The three days of observation were the most methodical work I had done since the
 
 I moved through Oslo's neighbourhoods in the persona of a construction worker on approved movement passes, cataloguing what I saw with the patient discipline that a year of resistance had built in me. Patrol schedules. Gestapo vehicle patterns. The small signals that distinguished a building under active surveillance from one that merely looked observed: the same parked car two days running, the man who appeared on three separate corners at three separate times, the woman in the café window who never seemed to be reading the book in front of her.
 
-Oslo under occupation had a particular texture that Trondheim had not quite prepared me for. In Trondheim the occupation sat on top of the city like something placed there that did not entirely fit. In Oslo it had worked its way in deeper -- a year of bureaucratic normalisation, of requisitioned offices and registered workers and the slow replacement of Norwegian institutions with German-supervised equivalents. It felt more settled. More permanent. This was something I had to actively resist feeling anything about while I was doing this kind of work.
-
-The city had its own weather -- not the mountain weather I had been living inside for months, the bone-cold that came off the heights with the smell of pine and snow, but something damper, the sea-smell of the Oslo fjord mixing with coal smoke and the particular closed-off quality of a large city in the second year of occupation. The streets were wet from a recent rain. The buildings I walked past were unchanged in themselves but framed differently by what now stood in front of them -- checkpoints, notices, the occasional German vehicle moving through traffic with the right-of-way that came from being in a city you had taken by force.
+Oslo under occupation had a texture Trondheim had not prepared me for. In Trondheim the occupation sat on top of the city like something placed there that did not entirely fit. In Oslo it had worked its way in deeper -- a year of bureaucratic normalisation, requisitioned offices, registered workers, the slow replacement of Norwegian institutions with German-supervised equivalents. It felt settled. Permanent. The streets were wet from recent rain, the buildings unchanged in themselves but reframed by the checkpoints and notices and German vehicles that now stood in front of them.
 
 I ate in workers' canteens, listened to conversations, watched the way people navigated the ordinary checkpoints with the micro-adjustments of the long-occupied: papers produced smoothly, eyes down, the performance of harmlessness that had become a daily skill. Children moved differently than adults -- they had grown up with this, for them the checkpoints were simply part of the street, without the faint wrong-note quality that the adults still carried.
 
-On the second day I passed the university. The building stood as it always had, its neoclassical facade unchanged, but the German flag over the main entrance and the notice board inside the gate -- regulations, registration requirements, approved topics for public assembly -- made it something else. I thought of Aas in there, year after year of lectures on whatever the Germans permitted, maintaining the surface of normal academic life while a courier network operated underneath it. The particular discipline that required was different from anything I had learned in the mountains. I was not sure I could have managed it.
+On the second day I passed the university. The building stood as it always had, its neoclassical facade unchanged, but the German flag over the main entrance and the notice board inside the gate -- regulations, registration requirements, approved topics for public assembly -- made it something else. I thought of Aas in there, year after year of lectures on whatever the Germans permitted, a courier network running underneath it all. A discipline different from anything I had learned in the mountains.
 
 Marta, the radio operator, I found on the second day.
 
@@ -306,7 +304,7 @@ The copies were in Marta's hands before midnight. Encoded and transmitted to She
 
 I sat in Borghild's kitchen in the early morning, the city coming to life outside the blackout curtains, an ersatz coffee that tasted of burnt grain warming my hands.
 
-The relief after an operation was always physical first. Shoulders releasing. Jaw unclenching. The restoration of ordinary breathing. Then behind it, the particular quality of consciousness that arrives when you have been at the edge of something bad and have not gone over -- not euphoria, never that, but a sharpening. Each detail of the kitchen with unusual clarity: the grain of the table, the pale morning pressing at the curtain edges, the sounds of a city beginning its occupied day.
+The relief after an operation was always physical first. Shoulders releasing. Jaw unclenching. The restoration of ordinary breathing. Then a sharpening. Each detail of the kitchen with unusual clarity: the grain of the table, the pale morning pressing at the curtain edges, the sounds of a city beginning its occupied day.
 
 Eriksen was asleep in the next room. Aas had gone home after confirming the transmission. Marta was preparing her next scheduled contact.
 
@@ -332,13 +330,7 @@ Of Aas, who had turned a reading group into a courier network because the prohib
 
 Of Marta, doing the work of three people alone in silence, transmitting into the void without acknowledgement, because stopping was the alternative and stopping was not something she was built for.
 
-Each of them had arrived, through entirely different paths, at the same thing Borghild had just said. Somebody should do something useful. And, following from it with the simplicity of a mathematical proof: I am somebody.
-
-The decision I had made outside Narvik -- to walk into the eastern forest instead of down the main road -- had not been a single decision. It had been the first in a long chain, each one smaller and more specific than the last, each building on what the previous ones had made possible. I was not the man who had pressed himself into the snow while a bullet splintered the tree centimetres from his head. That man had been frightened and stubborn and more than a little naive about what fighting for Norway would actually ask of him.
-
-The man in Borghild's kitchen had carried a copying device into an occupied hotel room and photographed documents behind a wardrobe door with a guard twenty metres away. Had learned to sleep in cliff crevices. Had buried a friend in the ground and kept moving. Had learned what he was made of not by looking inward but by finding out what the situation required each time and choosing, each time, to provide it.
-
-This was, I understood that morning, what resistance actually was. Not the operations, not the intelligence, not the sabotage, though all of those mattered. It was the daily decision, made again by each person in the network, by every resistance fighter across Norway, by Borghild in her kitchen and Aas in his lecture hall and Marta at her transmitter -- the decision to be somebody, and to do something useful with it.
+Each of them had arrived, through entirely different paths, at the same thing Borghild had just said. Somebody should do something useful. And, following from it: I am somebody.
 
 "Thank you," I said to Borghild. "For the room. And for more than the room."
 

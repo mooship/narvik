@@ -10,19 +10,19 @@ The eastern forest gathered us in like ghosts.
 
 Men stepped silently from behind trees, emerged from shadows, rifles held ready until recognition settled across their faces. By midnight we numbered twenty-three. Former soldiers of a surrendered army, held together by nothing but refusal.
 
-The cabin was not large. Twenty-three men filled it past comfortable capacity, the air thick with damp clothing and the particular smell of men who had been moving hard for hours. Haugen had a single oil lamp turned low, a map on the rough-hewn table, a photograph of King Haakon VII pinned to the wall beside it. Someone had written one word beneath the photograph: _Troskap._ Loyalty.
+The cabin was not large. Twenty-three men filled it past comfortable capacity, the air thick with damp clothing and sweat. Haugen had a single oil lamp turned low, a map on the rough-hewn table, a photograph of King Haakon VII pinned to the wall beside it. Someone had written one word beneath the photograph: _Troskap._ Loyalty.
 
 Haugen briefed us on the checkpoints, the house-to-house searches, the timeline before the Germans expanded outward from Narvik. Three days, perhaps. Then he laid out the next moves: north, into the mountains, pairs, different routes, rendezvous at the old mining camp by sunset tomorrow.
 
 The men took the information in with the trained attention of soldiers and then did not quite know what to do with it. This was not how soldiers behaved after a briefing. There were no orders to follow, no duties to report to, no structure waiting on the other side of the information. Haugen had given us the practical shape of the next twenty-four hours and then said _get what sleep you can_, and the getting of sleep was not what the room wanted to do.
 
-I watched them in the lamplight. Eriksen, the radio operator, sitting with his kit on his lap as though ensuring contact between himself and the last functional thing he had been responsible for. Lunde, who had a wife and children in Ålesund and had chosen this over the road to surrender, looking at his hands. Bergmann, who had never told anyone why he had chosen to stay and showed no sign of starting, cleaning his rifle in the corner with the economy of motion he brought to everything. Pettersen the schoolteacher from Ålesund, sitting with his back very straight in the way that people of a certain disposition maintained their posture as a form of control when other forms of control were unavailable.
+I watched them in the lamplight. Eriksen, the radio operator, sitting with his kit on his lap as though ensuring contact between himself and the last functional thing he had been responsible for. Lunde looking at his hands. Bergmann cleaning his rifle in the corner, silent as always. Pettersen sitting with his back very straight, the schoolteacher's posture held like a last small discipline.
 
 And several men from neighbouring platoons whom I knew only slightly -- men whose names I had learned and whose faces had become familiar over weeks of shared positions and shared meals and shared cold, and who were now here in this cabin because they had been in the eastern forest at dusk, and the choice was as simple and as complicated as that.
 
 None of us were soldiers anymore. The army had surrendered. The ranks, the protocols, the chain of command reaching upward to a government now in exile -- all of it had dissolved, and what was left was this: twenty-three men in a cabin, holding rifles, deciding to keep holding them without anyone requiring it of them.
 
-The strange lightness of that was something I had not expected. And the strangeness of the lightness. I had expected the dissolution of structure to feel like falling, and instead it felt more like standing in a doorway, the old room behind and the new one not yet visible, and the standing being its own thing.
+I had expected the dissolution of structure to feel like falling, and instead it felt more like standing in a doorway, the old room behind and the new one not yet visible.
 
 Dahl had no visible reaction to any of it, which was its own kind of steadiness.
 
@@ -36,7 +36,7 @@ I found a fallen log and sat with it. The British evacuation. The ships going da
 
 Each of these things was real. None of them had fully landed yet. The body had a way of deferring the large things, parcelling them out in manageable quantities, and I understood this was a service it performed but it was also a debt that would need paying later.
 
-Dahl emerged from the dark and settled beside me with the particular grunt he had for acknowledging the physical inconveniences of his age without complaining about them. We sat in silence for a while, looking at the same dark mountains.
+Dahl emerged from the dark and settled beside me with a grunt that acknowledged his knees without quite complaining about them. We sat in silence for a while, looking at the same dark mountains.
 
 "I fought in the Great War," he said, when he was ready. "Thought that would be the only one I'd see. That my children would get a better world." A short, humourless sound. "Here I am. Old enough to be your father."
 
@@ -52,7 +52,7 @@ Dahl emerged from the dark and settled beside me with the particular grunt he ha
 
 "When," he replied. No hesitation, no performance. Just the calm certainty of a man who had filed this under _obvious_ and saw no reason to revisit the filing. "Empires rise and fall. Occupations begin and end. Norway was here before there was a Germany. It will be here after their flags are taken down."
 
-I could not tell whether he believed it entirely or was certain I needed to hear it. Either way, I was grateful. Dahl had the quality of a man who never said things he did not mean, which made the things he said land differently from things said by men who might mean them or might not.
+I could not tell whether he believed it entirely or was certain I needed to hear it. Either way, I was grateful. Dahl never said things he did not mean, and you could hear it.
 
 "Get some sleep," he said, rising. "Tomorrow begins a different kind of war."
 
@@ -64,9 +64,9 @@ I sat for a while longer, looking at the stars over the mountains, and tried to 
 
 Dawn found me moving north through the forest with Johansen.
 
-We had spoken little since the night of the eastern approach, but something had settled between us in the silence -- the particular bond of men who have been through the same thing and come out the other side in different shapes. Johansen was quieter than he had been even before, which for a man who had always been quiet was saying something. He moved through the forest with his head slightly down, thinking.
+We had spoken little since the night of the eastern approach, but something had settled between us in the silence -- the bond of shared survival, however differently it had shaped us. Johansen was quieter than he had been even before, which for a man who had always been quiet was saying something. He moved through the forest with his head slightly down, thinking.
 
-We followed a stream northward, keeping to the tree cover, stopping to listen when the terrain opened or the wind shifted. The morning was cool and clear, the forest doing its ordinary work of being a forest -- birdsong at the higher reaches, the creak of a pine somewhere above us, the sound of water over stones. Indifferent, as always, to everything happening in it.
+We followed a stream northward, keeping to the tree cover, stopping to listen when the terrain opened or the wind shifted. The morning was cool and clear, the forest doing its ordinary work of being a forest -- birdsong at the higher reaches, the creak of a pine somewhere above us, the sound of water over stones.
 
 Around midday we stopped to eat what we were carrying. Dried fish, hard biscuits, stream water drawn through a cloth. Not much. Enough.
 
@@ -76,7 +76,7 @@ I had been expecting this. Or something like it. "You're thinking of going there
 
 He nodded, not meeting my eyes. "My parents are elderly. My sister helps them, but she's alone with it now. Under German occupation, without..." He left the rest unsaid, but the shape of it was clear enough.
 
-I looked at him. He was perhaps twenty-two -- I had never asked his exact age -- with the steady competence of someone raised to physical work and the particular solidity of a person who did not speak unless he had something to say. He had held the eastern approach beside us. He had kept his rifle steady and his breathing even and he had done what was required. He had posted his letter before the communications unit left and had shown up in the eastern forest at dusk.
+I looked at him. He was perhaps twenty-two -- I had never asked his exact age -- steady, competent, the kind of person who did not speak unless he had something to say. He had held the eastern approach beside us. He had kept his rifle steady and his breathing even and he had done what was required. He had posted his letter before the communications unit left and had shown up in the eastern forest at dusk.
 
 He was not a man who made choices carelessly.
 
@@ -138,7 +138,7 @@ We worked quickly, the three of us, pulling both bodies back into the undergrowt
 
 She moved into the forest and we followed.
 
-She navigated without hesitation, choosing paths I could not see until I was on them, the kind of intimate knowledge of terrain that takes years to build. She set a pace that was fast enough to be purposeful and measured enough to be sustainable, and she moved with a quality I had seen in Dahl -- that complete absence of wasted motion that meant she was never catching up to where she needed to be, she was already there.
+She navigated without hesitation, choosing paths I could not see until I was on them. Years of knowing this terrain. She set a pace that was purposeful without being unsustainable, and she moved the way Dahl moved -- never catching up to where she needed to be, already there.
 
 "You're local?" I said, as we walked.
 
@@ -178,7 +178,7 @@ Haugen listened more than he spoke, which was different from the way he had run 
 
 "Consolidation takes time," Ingrid said. "Time we can use." She looked at the map on the wall. "The more they extend their control, the more surface area they have for us to work against."
 
-Bergmann looked at her, at the map, and sat back. Not satisfied, exactly. But not arguing.
+Bergmann looked at her, at the map, and sat back.
 
 "Those who stay on the mainland," said Margit -- her voice carrying the particular authority of someone who had been managing difficult situations for decades longer than anyone else in the room -- "need a way to continue their lives without drawing German attention. That means their work here stays invisible. Which means it has to look like nothing to people who don't know what they're looking at."
 
@@ -224,9 +224,9 @@ I was standing outside again later, the cabin behind me, the darkness complete u
 
 "Then I'll be ready."
 
-The silence between us was comfortable in the specific way of silences between people who are not performing anything for each other. The cold came off the mountains in the way it always did, and somewhere above the clouds the stars were doing what they always did, and it was quiet in the forest in the way that was different from silence by day.
+The silence between us was comfortable. The cold came off the mountains in the way it always did, and it was quiet in the forest in a way that felt different from silence by day.
 
-"I heard about Kristian Olsen," she said, without preparation. "I'm sorry."
+"I heard about Kristian," she said, without preparation. "I'm sorry."
 
 His name, spoken by someone I had met hours ago in a dark forest, caught me somewhere I had not expected to be caught. "You knew him?"
 
@@ -236,11 +236,11 @@ I thought of Kristian the way you think of someone recently gone -- in fragments
 
 "He was certain Norway would never truly fall," I said. "Even at the end. He'd have hated the surrender. But he'd have understood this." I meant the cabin, the maps, the patchwork of ordinary people deciding not to stop.
 
-"Then we owe it to him to prove him right." Her hand found my arm in the darkness -- a brief, firm pressure, the touch of a person who was not sentimental but understood that some things needed a physical acknowledgement -- and then she was moving back toward the cabin.
+"Then we owe it to him to prove him right." Her hand found my arm in the darkness -- a brief, firm pressure -- and then she was moving back toward the cabin.
 
 I stood there for a while longer, letting the cold be what it was.
 
-The shock and grief were not gone and would not be gone for some time. But alongside them something else had taken shape -- not hope exactly, too fragile for that word, but the precursor to it. A sense that what I was doing here had a shape and a purpose that I had not yet seen whole, and that the not-yet-seeing it whole was not the same as it not being there.
+The shock and grief were not gone and would not be gone for some time. But alongside them something else had taken shape -- not hope exactly, too fragile for that word, but a sense that what I was doing here had a purpose I had not yet seen whole, and that the not-yet-seeing was not the same as it not being there.
 
 ---
 
@@ -286,8 +286,6 @@ He settled back to watch the fire die. I found my sleeping place among the other
 
 Johansen was gone when I woke at first light, his spot near the fire empty, the door drawn quietly closed behind him.
 
-Outside, the forest was beginning to show itself in the early grey. Somewhere in the distance, my country was occupied and the work of resisting it was still not named and still not organised and still, somehow, underway.
+Outside, the forest was showing itself in the early grey. My country was occupied. The work of resisting it had no name yet and no shape, but it was underway.
 
-I was no longer a soldier. The word for what I was instead had not yet arrived.
-
-But I was not, it turned out, alone in being it.
+I was no longer a soldier. I did not yet have a word for what I was instead. But I was not alone in being it.

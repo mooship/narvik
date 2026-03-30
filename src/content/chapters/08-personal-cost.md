@@ -8,7 +8,7 @@ epigraphAuthor: "Ingrid Nilsen, to Erik Solberg"
 
 Winter fell upon Norway like a shroud, blanketing the landscape in snow that glittered beneath the weak Arctic sun. Nearly eight months had passed since the Trondheim extraction -- eight months of constant movement, of operations that had begun to blur together into a single sustained effort of sabotage, intelligence gathering, and survival.
 
-Our resistance cell had evolved from the ragged group that emerged from Narvik's collapse into something more structured and more effective -- and consequently, more hunted. We had become harder and quieter and more capable over eight months, which was the progress of a war that was going badly for Norway in every conventional sense and well in every unconventional one.
+Our resistance cell had evolved from the ragged group that emerged from Narvik's collapse into something more structured and more effective -- and consequently, more hunted. We had become harder and quieter and more capable over eight months, which was the progress of a war that was going badly for Norway in every conventional sense and well in every unconventional one. Johansen had reached Sweden in the summer, we learned -- he was working with the government-in-exile on supply coordination, his paths crossing with other ones, as he had said they might.
 
 Haugen had been captured during an operation in October. The details had come to us in pieces -- a safe house compromised, a checkpoint that had somehow been expecting him, the particular pattern of subsequent German behaviour suggesting a source had been turned. His fate remained unknown, though we all carried the same grim suspicion. We did not speak of it directly. We spoke around it in the way you speak around things that are probably true and that saying aloud will not improve.
 
@@ -21,6 +21,8 @@ This night found us sheltering in an abandoned hunting lodge deep in the mountai
 Ingrid, our primary liaison with Allied intelligence networks, studied the markings. "RAF reconnaissance photographed four destroyers and numerous smaller escort vessels. They're taking no chances after the losses last month."
 
 The losses she referred to had been our most significant success to date -- three supply ships sunk by Norwegian resistance-guided British torpedo bombers. The Germans had tightened security considerably in response.
+
+"RAF Coastal Command has stepped up operations over Vestfjorden," Ingrid added. "Two Beaufighter squadrons redeployed north in the past month. London wants our observation data to coordinate with their patrols."
 
 "Objective?" asked Nielsen, a former naval officer who had joined our cell in the summer.
 
@@ -62,11 +64,11 @@ We sat in silence for a time, the soft breathing of sleeping resistance fighters
 
 "Do you ever think about what comes after?" I asked eventually. "When this ends. If it ends."
 
-She was quiet for a moment. The question was not one that got asked directly very often -- there was a superstition around it, the feeling that naming the future too clearly might be a kind of presumption. But we were alone in the watch, the others asleep, and the cold and the dark of the lodge made a particular kind of honesty easier.
+She was quiet for a moment. The question was not one that got asked directly very often -- there was a superstition around it, the feeling that naming the future too clearly might be a kind of presumption. But we were alone in the watch, the others asleep, and the cold and the dark made honesty easier.
 
 "Sometimes," she said. "Though planning for a future we might not see feels almost dangerous. Like you're spending something you haven't been given yet." She pulled the blanket tighter. "I think I'd like to study. University. History, perhaps -- understanding how we arrived here seems important. Not just Norway. All of it. How ordinary people become what we've become, in either direction."
 
-I could picture it. Ingrid in a lecture hall rather than a frozen mountain observation post, her mind turned toward academic problems instead of survival ones. The thought had a particular quality -- not wistfulness exactly, something more grounded. A version of her that was possible rather than imaginary.
+I could picture it. Ingrid in a lecture hall rather than a frozen mountain observation post, her mind turned toward academic problems instead of survival ones. A version of her that was possible rather than imaginary.
 
 "And you?" she asked. "The fisherman's son from Narvik -- what does he want when Norway is free?"
 
@@ -74,11 +76,7 @@ The question caught me more off guard than I expected. I had been so thoroughly 
 
 "Before all this, I planned to teach. Languages." I looked out at the frozen darkness. "English, primarily. Maybe Norwegian literature. I wanted to work with the words that connected things." A pause. "Now I'm not certain I remember how to live in a world that isn't trying to kill me at irregular intervals."
 
-"You'll remember," she said. "It's not a skill, it's just a setting. You return to it."
-
-"How do you know?"
-
-"I don't. But I think the things we were before the war are still in us somewhere. Not unchanged -- the war has changed everything. But not gone." She was quiet for a moment, looking at the window. "I remember who I was before April of 1940. The person who argued with her professors about historical methodology and spent weekends in the library and thought that being decisive meant choosing a research focus." She paused. "That person would not recognise me. But she's still in there. I can feel her sometimes. Surprised at what she turned into."
+"You'll remember," she said. "It's not a skill, it's just a setting. You return to it." She was quiet for a moment, looking at the window. "I remember who I was before April of 1940. The person who argued with her professors about historical methodology and spent weekends in the library and thought that being decisive meant choosing a research focus." She paused. "That person would not recognise me. But she's still in there. I can feel her sometimes. Surprised at what she turned into."
 
 "Does that frighten you?"
 
@@ -92,9 +90,7 @@ Her hand found mine in the dark -- not the brief firm pressure of someone offeri
 
 "Then we'll see it through," she said. "And after -- whatever after looks like -- we'll figure that out then."
 
-The moment held something I did not have a clean word for. Not quite hope -- hope felt like too optimistic a thing for a resistance fighter in a frozen mountain lodge who had lost count of how many people she had known who were now gone. But adjacent to it. The sense that we still contained the possibility of future selves, and that those selves were not entirely unconnected to who we were right now.
-
-She seemed to understand, without my having said it, that this was enough. That the moment did not require anything more from it than what it was.
+The moment held something adjacent to hope. The sense that we still contained the possibility of future selves.
 
 "Get some sleep before tomorrow. I'll take the watch."
 
@@ -224,7 +220,7 @@ Almost simultaneously, Jensen's boat appeared from the west, hugging the island'
 
 I made my decision.
 
-The calculation was not complicated. Eriksen had the intelligence -- the convoy data, the photographs, the observation logs that would tell London exactly what was being moved north and why it mattered. That information represented weeks of operations, several lives, and whatever the British were planning in the north that these reinforcements were meant to prevent. Against that, one man with three rounds remaining and a wounded arm in deteriorating weather.
+The calculation was not complicated. Eriksen had the intelligence -- the convoy data, the photographs, the observation logs. That information represented weeks of operations, several lives, and whatever the British were planning that these reinforcements were meant to prevent. Against that: one man, three rounds, a wounded arm, deteriorating weather.
 
 The decision was not complicated. It was simply not a good one to be required to make.
 
@@ -334,31 +330,19 @@ She considered the question as though it deserved an honest answer rather than a
 
 I did not know what to do with that, so I said: "Thank you."
 
-"Also Larsen's nephew knows this coastline better than anyone living, and Jensen had the boat fuelled and ready, and the intelligence was already clear, and the window was there." She paused. "I'm not going to pretend it was reckless. It was calculated."
+"Also Larsen's nephew knows this coastline better than anyone living, and Jensen had the boat fuelled and ready, and the window was there." She paused. "It was calculated."
 
 "I know you don't do anything that isn't calculated."
 
-"I don't do many things that aren't calculated," she said, which was a slightly different sentence, and she said it without looking at me.
+"I don't do many things that aren't calculated," she said, without looking at me.
 
-The boat pitched as it met a larger wave. Somewhere above us Nielsen adjusted course without comment.
+"I thought about Kristian," I said, after a while. "In the crevice. The long hours. I thought about Larsen too."
 
-"I thought about Kristian," I said, after a while. "In the crevice. The long hours. I thought about Larsen too. About what it feels like to make the final calculation."
+She was quiet.
 
-She was quiet. She was not a person who filled silence with noise when the silence was doing something necessary.
+"I wasn't certain I was going to be found," I said. "I told Eriksen to take the intelligence to London and not look back, and I meant it. And then I had a night to think about what it meant." I looked at the broth in my hands. "I keep thinking about the ones who made the same calculation in harder circumstances and didn't have a boat appear. What we owe them."
 
-"I wasn't certain I was going to be found," I said. "The standard protocol is clear. I told Eriksen to take the intelligence to London and not look back, and I meant it. And then I had a night in a crevice in the cliff face to think about what it meant." I looked at the broth in my hands. "I found I wasn't afraid, exactly. I was -- I'm not sure what I was. Resigned isn't the right word. More like accepting. Like the calculation had already resolved itself and I was just waiting to see which way."
-
-"And now?"
-
-"Now I'm in a boat cabin drinking broth and you're sitting beside me and the intelligence is on its way to London." I looked up at her. "It feels like something I'm not sure I deserve."
-
-"That's depletion talking," she said. "You'll think more clearly tomorrow."
-
-"Maybe. But I've been thinking about Kristian for a long time, and Larsen, and all of them -- the ones who made the same calculation in harder circumstances and didn't have a boat appear. And I keep thinking about what we owe them. Whether we pay the debt by surviving or by continuing, or whether those are the same thing."
-
-She was quiet for a moment. "I think the debt is paid by not letting what they died for come to nothing," she said finally. "Which means surviving, when you can. Which means you did the right thing up there -- giving Eriksen the chance to get clear. And it means I did the right thing coming back for you." She paused. "Both things can be right. They don't cancel each other."
-
-The straightforward precision of this -- that was Ingrid. Not consolation for its own sake. The actual argument, worked through, offered without sentiment.
+"I think the debt is paid by not letting what they died for come to nothing," she said. "Which means surviving, when you can. Which means you did the right thing up there. And it means I did the right thing coming back for you." She paused. "Both things can be right. They don't cancel each other."
 
 "Sometimes I wonder if I'm still the same person who stood outside Narvik watching the British ships disappear," I said.
 
