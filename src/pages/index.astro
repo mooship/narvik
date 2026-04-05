@@ -1,5 +1,6 @@
 ---
 import { getCollection } from "astro:content";
+import LicenseFooter from "../components/LicenseFooter.astro";
 import { config } from "../config";
 import Layout from "../layouts/Layout.astro";
 
@@ -58,11 +59,7 @@ const chapters = allChapters.toSorted((a, b) => a.data.order - b.data.order);
 
     <footer class="site-footer">
       <p>© {new Date().getFullYear()} {config.author}</p>
-      <p class="site-license">
-        Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"
-          >CC BY-NC-SA 4.0</a
-        >.
-      </p>
+      <LicenseFooter />
     </footer>
   </div>
 </Layout>

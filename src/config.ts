@@ -6,4 +6,5 @@ export const config = {
     "A narrative exploring resistance, survival, and the human cost of war in occupied Norway during World War II.",
   author: "Timothy Brits",
   tagline: "A Novella",
+  ogImage: "https://narvik.timothybrits.co.za/norway.webp",
 };

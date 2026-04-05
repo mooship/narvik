@@ -1,10 +1,12 @@
 ---
+import LicenseFooter from "../components/LicenseFooter.astro";
 import { config } from "../config";
 import Layout from "./Layout.astro";
 
 interface Props {
   title: string;
   order: number;
+  slug: string;
   description?: string;
   epigraph?: string;
   epigraphAuthor?: string;
@@ -12,7 +14,7 @@ interface Props {
   nextChapter?: { slug: string; title: string } | null;
 }
 
-const { title, order, description, epigraph, epigraphAuthor, prevChapter, nextChapter } =
+const { title, order, slug, description, epigraph, epigraphAuthor, prevChapter, nextChapter } =
   Astro.props;
 
 const chapterNumber = String(order).padStart(2, "0");
@@ -97,11 +99,7 @@ const chapterNumber = String(order).padStart(2, "0");
             )
           }
         </div>
-        <p class="site-license">
-          Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"
-            >CC BY-NC-SA 4.0</a
-          >.
-        </p>
+        <LicenseFooter />
       </footer>
     </main>
   </div>
@@ -109,7 +107,7 @@ const chapterNumber = String(order).padStart(2, "0");
 
 <script
   define:vars={{
-    _slug: Astro.url.pathname.replace("/chapters/", ""),
+    _slug: slug,
     _title: title,
     _order: order,
   }}
