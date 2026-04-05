@@ -30,6 +30,7 @@ const { Content } = await render(chapter);
 <ChapterLayout
   title={chapter.data.title}
   order={chapter.data.order}
+  slug={Astro.params.slug!}
   description={chapter.data.description}
   epigraph={chapter.data.epigraph}
   epigraphAuthor={chapter.data.epigraphAuthor}
